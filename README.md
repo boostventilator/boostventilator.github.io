@@ -1,10 +1,3 @@
----
-title: Readme
-layout: post
----
-
-Here is my Readme.
-
 # blank-gh-site
 
 This repository is the simplest possible Github site that can work.
