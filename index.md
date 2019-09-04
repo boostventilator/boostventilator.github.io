@@ -3,8 +3,6 @@ layout: default
 title: Iain K. MacLeod
 description: 
 ---
-
-# Iain K. MacLeod
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet.
   You can find me on other websites below:
