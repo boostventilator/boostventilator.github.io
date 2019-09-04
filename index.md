@@ -48,18 +48,18 @@ description:
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
 
-###🔓 Insecure
+### 🔓 Insecure
 
 * <a class="u-url" href="https://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
-###⚰️ Inactive
+### ⚰️ Inactive
 
 * <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
 * <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
-###💰
+### 💰
 <!-- * <a class="u-url" href=""></a> -->
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>
