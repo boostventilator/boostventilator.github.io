@@ -5,14 +5,9 @@ description:
 ---
 
 # Iain K. MacLeod
-  <div class="h-card">
-    <p>
-      Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet.
-    </p>
-
-    <p>
-      You can find me on other websites below:
-    </p>
+<div class="h-card">
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet.
+  You can find me on other websites below:
 </div>
 
 ## Links
