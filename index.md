@@ -33,22 +33,41 @@ description:
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
-* <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
 * <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
 * <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
 * <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
 * <a class="u-url" href="https://www.goodreads.com/boostventilator" rel="me">Goodreads</a>
-* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
 * <a class="u-url" href="https://vsco.co/boostventilator/images/1" rel="me">VSCO</a>
-* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 * <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
 * <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
-* <a class="u-url" href="http://boostventilator.blogspot.com" rel="me">Blogspot</a>
 * <a class="u-url" href="https://www.blogger.com/profile/01594348677326306924" rel="me">Blogger</a>
-* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
+* <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
 * <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
-* <a class="u-url" href="http://boostventilator.micro.blog" rel="me">Micro Blog</a>
-* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Get Pocket</a>
-* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>   
+* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
+* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
+
+###🔓 Insecure
+
+* <a class="u-url" href="https://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
+
+###⚰️ Inactive
+
+* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
+* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
+* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
+* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
+
+###💰
+<!-- * <a class="u-url" href=""></a> -->
+
+* <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>
+* <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>
+* <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>
+* <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>
+* <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>
+* <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>
+* <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>
+* <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>
+* <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>
