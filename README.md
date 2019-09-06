@@ -6,4 +6,7 @@ layout: default
 
 - [x] secure connection
 - [x] links
-- [ ] referral links
+- [x] referral links
+- [ ] additonal links
+- [ ] explanation
+- [ ] wiki?
