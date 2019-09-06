@@ -10,3 +10,10 @@ layout: default
 - [ ] additonal links
 - [ ] explanation
 - [ ] wiki?
+
+
+### Thanks
+
+* https://pages.github.com
+* https://github.com/pages-themes/primer
+* https://github.com/indieweb/blank-gh-site
