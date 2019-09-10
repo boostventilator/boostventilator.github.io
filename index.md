@@ -47,6 +47,7 @@ description:
 * <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
+* <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 
 ### 🔓 Insecure
 
