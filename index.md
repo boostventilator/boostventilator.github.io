@@ -20,9 +20,11 @@ description:
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
 * <a class="u-url" href="https://twitter.com/boostventilator" rel="me">@boostventilator on Twitter</a>
 * <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
+* <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
 * <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
+* <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
 * <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a>    
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
@@ -30,6 +32,7 @@ description:
 * <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
 * <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a>
+* <a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">YouTube (Alt)</a>
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
@@ -48,6 +51,17 @@ description:
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
+* <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
+* <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
+* <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
+* <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
+* <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Bretong Online</a>
+* <a class="u-url" href="https://exclaim.ca/writers/iain_k_macleod" rel="me">Exclaim</a>
+* <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
+* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
+* <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
+* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
+* <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
 
 ### 🔓 Insecure
 
@@ -59,9 +73,11 @@ description:
 * <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
+* <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
+https://upcoming.org/@boostventilator
+
 
 ### 💰
-<!-- * <a class="u-url" href=""></a> -->
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>
 * <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>
@@ -72,3 +88,9 @@ description:
 * <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>
 * <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>
+
+### Not Me
+
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
+
+<!-- * <a class="u-url" href=""></a> -->
