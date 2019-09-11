@@ -74,8 +74,7 @@ description:
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 * <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
-https://upcoming.org/@boostventilator
-
+* <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
 
 ### 💰
 
