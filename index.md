@@ -101,3 +101,10 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 
 <!-- * <a class="u-url" href=""></a> -->
+
+<script type="text/javascript">
+function changeTitle( profile ) {
+    document.title = profile.entry[0].displayName;
+}
+ 
+<script src="https://www.gravatar.com/2be15a3f079ae5644227810dac7e1b202.json?callback=changeTitle" type="text/javascript"></script>
