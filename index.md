@@ -62,6 +62,7 @@ description:
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
+* <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 
 ### 🔓 Insecure
 
