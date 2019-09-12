@@ -96,15 +96,19 @@ description:
 
 <a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+* <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
+
 ### Not Me
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 
 <!-- * <a class="u-url" href=""></a> -->
 
-<script type="text/javascript">
-function changeTitle( profile ) {
-    document.title = profile.entry[0].displayName;
-}
+<?php
  
-<script src="https://www.gravatar.com/2be15a3f079ae5644227810dac7e1b202.json?callback=changeTitle" type="text/javascript"></script>
+$str = file_get_contents( 'https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.php' );
+$profile = unserialize( $str );
+if ( is_array( $profile ) && isset( $profile['entry'] ) )
+    echo $profile['entry'][0]['displayName'];
+ 
+?>
