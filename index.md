@@ -8,6 +8,8 @@ description:
   You can find me on other websites below:
 </div>
 
+<img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
+
 ## Links
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
