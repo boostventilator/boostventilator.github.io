@@ -88,6 +88,10 @@ description:
 * <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>
 
+### Flair
+
+<a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 ### Not Me
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
