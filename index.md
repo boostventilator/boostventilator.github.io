@@ -8,8 +8,6 @@ description:
   You can find me on other websites below:
 </div>
 
-<img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
-
 ## Links
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
@@ -104,11 +102,4 @@ description:
 
 <!-- * <a class="u-url" href=""></a> -->
 
-<?php
- 
-$str = file_get_contents( 'https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.php' );
-$profile = unserialize( $str );
-if ( is_array( $profile ) && isset( $profile['entry'] ) )
-    echo $profile['entry'][0]['displayName'];
- 
-?>
+<img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
