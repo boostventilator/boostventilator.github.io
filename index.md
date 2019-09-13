@@ -54,6 +54,7 @@ description:
 * <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
 * <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
+* <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 
 ## Writing
 
@@ -86,12 +87,13 @@ description:
 
 ### ⚰️ Inactive
 
-* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
 * <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
+* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
-* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 * <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
 * <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
+* <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
+* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
 ### 💰 Referral Links
 
