@@ -53,7 +53,7 @@ description:
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
 * <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
-
+* <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
 ## Writing
 
@@ -83,10 +83,6 @@ description:
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
-
-### 🔓 Insecure
-
-* <a class="u-url" href="https://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
 ### ⚰️ Inactive
 
