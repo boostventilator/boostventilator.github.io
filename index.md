@@ -97,27 +97,28 @@ description:
 
 ### 💰 Referral Links
 
-* <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>
-* <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>
-* <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>
-* <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>
-* <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>
-* <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>
-* <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>
-* <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>
-* <a class="u-url" href="https://jetpack.com/?aff=4866&cid=3511701">Jetpack</a>
-* <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>
-* <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>
-* <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>
-* <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>
-* <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>
-* <a class="u-url" href="https://invite.ritual.co/IAIN58156">Ritual</a>
-* <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>
-* <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>
-* <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>: eats-e2fu2
-* <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>
-* <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>
-* <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>
+* <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
+* <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>: credit card
+* <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>: cloud backup
+* <a class="u-url" href="http://baronfig.refr.cc/iainmacleod">Baron Fig</a>: pens, notebooks, and stationary
+* <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>: cloud project and team management
+* <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
+* <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
+* <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
+* <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>: domain registration
+* <a class="u-url" href="https://jetpack.com/?aff=4866&cid=3511701">Jetpack</a>: WordPress security and performance
+* <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
+* <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
+* <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>: wallets, bags, and packs
+* <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>: cash back
+* <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
+* <a class="u-url" href="https://invite.ritual.co/IAIN58156">Ritual</a>: take-out ordering app
+* <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>: electronic payments
+* <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
+* <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
+* <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
+* <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
+* <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
 ### Flair
 
