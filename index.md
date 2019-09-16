@@ -7,11 +7,11 @@ description:
 <img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet.
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. I live in [Halifax](https://www.halifax.ca), [Nova Scotia](https://novascotia.ca), [Canada](https://www.canada.ca) 🇨🇦.
   You can find me on other websites below:
 </div>
 
-## Work
+## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a>
@@ -23,7 +23,7 @@ description:
 
 <!-- Editor at the Atlantic Standard Times -->
 
-## Social Media & Profiles
+## 🕸 Social Media & Profiles
 
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
@@ -56,7 +56,7 @@ description:
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 
-## Writing
+## 📝 Writing
 
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
@@ -71,14 +71,14 @@ description:
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
 
-## Video
+## 📹 Video
 
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a>
 * <a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">YouTube (Alt)</a>
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 
-## Audio
+## 🔈 Audio
 
 * <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
@@ -120,7 +120,7 @@ description:
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
-### Flair
+### 🎩 Flair
 
 <a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
