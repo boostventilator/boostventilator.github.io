@@ -6,12 +6,12 @@ description:
 
 <img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
 
-I live in [Halifax](https://www.halifax.ca), [Nova Scotia](https://novascotia.ca), [Canada](https://www.canada.ca) 🇨🇦.
-
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
   You can find me on other websites below:
 </div>
+
+⛴🦞🇨🇦 I live in [Halifax](https://halifax.ca), [Nova Scotia](https://novascotia.ca), [Canada](https://www.canada.ca).
 
 ## 👨🏻‍💻 Work
 
