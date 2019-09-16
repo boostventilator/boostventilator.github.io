@@ -126,7 +126,7 @@ description:
 
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
-### 🤷🏻‍♂️It wasn't me!
+### 🤷🏻‍♂️ It wasn't me!
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Writer (Trailer Park Boys ) and director (Your Money or Your Wife)</a>
