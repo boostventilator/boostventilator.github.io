@@ -106,7 +106,7 @@ description:
 * <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>: cloud backup
 * <a class="u-url" href="http://baronfig.refr.cc/iainmacleod">Baron Fig</a>: pens, notebooks, and stationary
 * <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>: cloud project and team management
-* <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: cloud project and team management
+* <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
