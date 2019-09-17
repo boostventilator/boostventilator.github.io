@@ -102,7 +102,7 @@ description:
 ### 💰 Referral Links
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
-* <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazone</a>: shopping
+* <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
 * <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>: credit card
 * <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>: cloud backup
 * <a class="u-url" href="http://baronfig.refr.cc/iainmacleod">Baron Fig</a>: pens, notebooks, and stationary
