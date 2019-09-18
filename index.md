@@ -11,7 +11,7 @@ description:
   You can find me on other websites below:
 </div>
 
-⛴🦞🇨🇦 I live in [Halifax](https://halifax.ca), [Nova Scotia](https://novascotia.ca), [Canada](https://www.canada.ca).
+I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
 ## 👨🏻‍💻 Work
 
