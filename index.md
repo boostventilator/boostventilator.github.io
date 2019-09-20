@@ -11,6 +11,7 @@ description:
   You can find me on other websites below:
 </div>
 
+
 I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
 ## 👨🏻‍💻 Work
@@ -87,23 +88,13 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
 
-### ⚰️ Inactive
-
-* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
-* <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
-* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
-* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
-* <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
-* <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
-* <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
-* <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
-* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
-
-### Unpaid Endorsements
+### 🖤 Unpaid Endorsements
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
+* <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
 * <a class="u-url" href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>: web browser
 * <a class="u-url" href="https://www.ikea.com/ca/en/">Ikea</a>: home furnishings
+* <a class="u-url" href="https://ranchero.com/netnewswire/">NetNewsWire</a>: RSS feed reader
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
@@ -124,6 +115,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://jetpack.com/?aff=4866&cid=3511701">Jetpack</a>: WordPress security and performance
 * <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
 * <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
+* <a class="u-url" href="https://www.notion.so/?r=5b8b23e57eb54cb5a508e76286074c2c">Notion</a>: all-in-one workplace
 * <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>: wallets, bags, and packs
 * <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>: cash back
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
@@ -140,6 +132,18 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 <a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
+
+### ⚰️ Inactive
+
+* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
+* <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
+* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
+* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
+* <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
+* <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
+* <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
+* <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
+* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
 ### 🤷🏻‍♂️ It wasn’t me!
 
