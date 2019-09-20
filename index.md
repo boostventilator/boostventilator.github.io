@@ -99,7 +99,15 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
-### 💰 Referral Links
+### Unpaid Endorsements
+* <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
+* <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
+* <a class="u-url" href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>: web browser
+* <a class="u-url" href="https://www.ikea.com/ca/en/">Ikea</a>: home furnishings
+* <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
+* <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
+
+### 💰 Referral Links - Paid Endorsements
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
@@ -110,6 +118,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
+* <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
 * <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>: domain registration
 * <a class="u-url" href="https://jetpack.com/?aff=4866&cid=3511701">Jetpack</a>: WordPress security and performance
