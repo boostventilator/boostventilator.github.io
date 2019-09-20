@@ -12,9 +12,9 @@ description:
 </div>
 
 
-I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), :canada: [Canada](https://www.canada.ca).
+I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
-## :man_technologist: Work
+## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a>
@@ -26,7 +26,7 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 
 <!-- Editor at the Atlantic Standard Times -->
 
-## :link: Social Media & Profiles
+## 🔗 Social Media & Profiles
 
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
@@ -59,7 +59,7 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 
-## :memo: Writing
+## 📝 Writing
 
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
@@ -74,21 +74,21 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
 
-## :video_camera: Video
+## 📹 Video
 
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a>
 * <a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">YouTube (Alt)</a>
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 
-## :speaker: Audio
+## 🔈 Audio
 
 * <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
 
-### :black_heart: Unpaid Endorsements
+### 🖤 Unpaid Endorsements
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
 * <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
@@ -98,7 +98,7 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
-### :money_mouth_face: Referral Links - Paid Endorsements
+### 💰 Referral Links - Paid Endorsements
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
@@ -127,13 +127,13 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
-### :tophat: Flair
+### 🎩 Flair
 
 <a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
-### :coffin: Inactive
+### ⚰️ Inactive
 
 * <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
 * <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
@@ -145,7 +145,7 @@ I live in :ferry: [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://nova
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
-### :man_shrugging: It wasn’t me!
+### 🤷🏻‍♂️ It wasn’t me!
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Writer (Trailer Park Boys) and director (Your Money or Your Wife)</a>
