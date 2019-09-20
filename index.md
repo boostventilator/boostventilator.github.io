@@ -4,7 +4,7 @@ title: Iain K. MacLeod
 description: 
 ---
 
-<img src="https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png">
+![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
