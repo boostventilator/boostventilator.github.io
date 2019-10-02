@@ -51,13 +51,13 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
 * <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
 * <a class="u-url" href="https://www.goodreads.com/boostventilator" rel="me">Goodreads</a>
+* <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
+* <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
 * <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
-* <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
-* <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
+* <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
-* <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 
 ## 📝 Writing
 
@@ -80,6 +80,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">YouTube (Alt)</a>
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
+* <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 
 ## 🔈 Audio
 
@@ -100,6 +101,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 
 ### 💰 Referral Links - Paid Endorsements
 
+* <a class="u-url" href="https://awcoupon.ca/en/referral/0W7iBK">A&W</a>: sign-up for free root beer
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
 * <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>: credit card
