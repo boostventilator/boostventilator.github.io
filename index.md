@@ -14,6 +14,8 @@ description:
 
 I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
+
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
@@ -114,6 +116,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
 * <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>: domain registration
+* <a class="u-url" href="https://inst.cr/t/x5Em9EZuB">Instacart</a>: grocery delivery
 * <a class="u-url" href="https://jetpack.com/?aff=4866&cid=3511701">Jetpack</a>: WordPress security and performance
 * <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
 * <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
@@ -154,3 +157,5 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://www.imdb.com/name/nm1461892/">Producer (Hollyoaks/Emmerdale/Coronation Street)</a>
 
 <!-- * <a class="u-url" href=""></a> -->
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
