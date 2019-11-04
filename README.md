@@ -7,7 +7,7 @@ layout: default
 - [x] secure connection
 - [x] links
 - [x] referral links
-- [ ] additonal links
+- [x] additonal links
 - [ ] explanation
 - [ ] wiki?
 
