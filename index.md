@@ -14,7 +14,7 @@ description:
 
 I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
 
 ## 👨🏻‍💻 Work
 
