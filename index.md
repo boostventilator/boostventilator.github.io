@@ -16,6 +16,8 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
+
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
