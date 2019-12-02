@@ -126,6 +126,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
 * <a class="u-url" href="https://invite.ritual.co/IAIN58156">Ritual</a>: take-out ordering app
 * <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>: electronic payments
+* <a class="u-url" href="http://ssqt.co/mEck1aW">Tile</a>: bluetooth trackers
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
 * <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
 * <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
