@@ -59,6 +59,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
+* <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
 ## 📝 Writing
@@ -83,6 +84,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
+* <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
 
 ## 🔈 Audio
 
@@ -90,8 +92,10 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
+* <a class="u-url" href="https://huffduffer.com/boostventilator" rel="me">Huffduffer</a>
 
 ### 🖤 Unpaid Endorsements
+
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
 * <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
@@ -150,6 +154,9 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
+* <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
+* <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
+* <a class="u-url" href="http://blingee.com/profile/boostventilator" rel="me">Blingee</a>
 
 ### 🤷🏻‍♂️ It wasn’t me!
 
