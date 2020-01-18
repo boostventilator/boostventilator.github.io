@@ -60,6 +60,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
 * <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
+* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
 ## 📝 Writing
