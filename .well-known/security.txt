@@ -1,0 +1,4 @@
+Contact: mailto:imac@boostventilator.com
+Encryption: https://iain.ca/key.pub
+Preferred-Languages: en
+Canonical: https://iain.ca/.well-known/security.txt
