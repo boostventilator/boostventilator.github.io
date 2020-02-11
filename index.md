@@ -134,6 +134,7 @@ I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascot
 * <a class="u-url" href="http://ssqt.co/mEck1aW">Tile</a>: bluetooth trackers
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
 * <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
+* <a class="u-url" href="https://wealthsimple.com/invite/NOSZSQ">Wealthsimple</a>:  get rich slow
 * <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
