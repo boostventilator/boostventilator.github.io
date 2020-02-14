@@ -8,17 +8,17 @@ description:
 
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
+  
+  I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
+
   You can find me on other websites below:
 </div>
-
-
-I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
 
 ## 👨🏻‍💻 Work
 
-* <a class="u-url" href="https://spectaclegroup.ca/iain.html">Project Manager at Spectacle Group</a>
+* <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a>
 * <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Boost Ventilator Consulting on Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a>
