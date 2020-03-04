@@ -126,6 +126,7 @@ description:
 * <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
 * <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
 * <a class="u-url" href="https://www.notion.so/?r=5b8b23e57eb54cb5a508e76286074c2c">Notion</a>: all-in-one workplace
+* <a class="u-url" href="http://bit.ly/2PLcQTC">Prizeo</a>: give small, win big
 * <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>: wallets, bags, and packs
 * <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>: cash back
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
