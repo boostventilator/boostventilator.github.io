@@ -41,7 +41,7 @@ description:
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
 * <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
 * <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
-* <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a>    
+* <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a> (<a href="https://keybase.io/boostventilator/chat">chat</a>)
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 * <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
