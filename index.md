@@ -116,6 +116,7 @@ description:
 * <a class="u-url" href="http://baronfig.refr.cc/iainmacleod">Baron Fig</a>: pens, notebooks, and stationary
 * <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>: cloud project and team management
 * <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
+* <a class="u-url" href="https://borrowell.com/free-credit-score?utm_source=refer2020-917985">Borrowell</a>: free Equifax Credit Score & Report
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
 * <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
