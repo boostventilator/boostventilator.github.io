@@ -14,8 +14,6 @@ description:
   You can find me on other websites below:
 </div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="boostventilator"><a class="LI-simple-link" href='https://ca.linkedin.com/in/boostventilator?trk=profile-badge'>Iain K. MacLeod</a></div>
-
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
@@ -118,6 +116,7 @@ description:
 * <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
 * <a class="u-url" href="https://borrowell.com/free-credit-score?utm_source=refer2020-917985">Borrowell</a>: free Equifax Credit Score & Report
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
+* <a class="u-url" href="https://drd.sh/9TGZRL/">DoorDash</a>: your favourite restaurants, delivered
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
 * <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
@@ -132,6 +131,7 @@ description:
 * <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>: cash back
 * <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
 * <a class="u-url" href="https://invite.ritual.co/IAIN58156">Ritual</a>: take-out ordering app
+* <a class="u-url" href="https://mbsy.co/3jHpJ9">Simplii Financial</a>: all the perks, none of the fees
 * <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>: electronic payments
 * <a class="u-url" href="http://ssqt.co/mEck1aW">Tile</a>: bluetooth trackers
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
@@ -169,5 +169,3 @@ description:
 * <a class="u-url" href="https://www.imdb.com/name/nm1461892/">Producer (Hollyoaks/Emmerdale/Coronation Street)</a>
 
 <!-- * <a class="u-url" href=""></a> -->
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
