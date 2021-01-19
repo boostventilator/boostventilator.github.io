@@ -17,11 +17,8 @@ description:
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
-* <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a>
-* <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Boost Ventilator Consulting on Facebook</a>
-* <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a>
-* <a class="u-url" href="https://www.facebook.com/thedingler/">The Dingler on Facebook</a>
-* <a class="u-url" href="https://www.instagram.com/thedingler/">The Dingler on Instagram</a>
+* <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> | <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
+* <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> | <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> | <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
 
 <!-- Editor at the Atlantic Standard Times -->
@@ -117,6 +114,7 @@ description:
 * <a class="u-url" href="https://borrowell.com/free-credit-score?utm_source=refer2020-917985">Borrowell</a>: free Equifax Credit Score & Report
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
 * <a class="u-url" href="https://drd.sh/9TGZRL/">DoorDash</a>: your favourite restaurants, delivered
+* <a class="u-url" href="https://fieldagent.page.link/ukK4YcKjcUXkBQyS6">Field Agents</a>: making cash trying new products
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
 * <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
