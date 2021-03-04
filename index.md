@@ -9,16 +9,16 @@ description:
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
   
-  I live in ⛴ [Halifax](https://halifax.ca), 🦞 [Nova Scotia](https://novascotia.ca), 🇨🇦 [Canada](https://www.canada.ca).
-
+  I live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://www.canada.ca">Canada</a>.
+  
   You can find me on other websites below:
 </div>
 
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
-* <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> | <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
-* <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> | <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> | <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
+* <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
+* <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
 
 <!-- Editor at the Atlantic Standard Times -->
@@ -92,13 +92,19 @@ description:
 
 ### 🖤 Unpaid Endorsements
 
+* <a class="u-url" href="https://1password.com/">1Password</a>: password manager
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
 * <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
+* <a class="u-url" href="https://fieldnotesbrand.com/">Fieldnotes</a>: quarterly notebooks
 * <a class="u-url" href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>: web browser
+* <a class="u-url" href="https://pages.github.com/">Github Pages</a>: web pages
 * <a class="u-url" href="https://www.ikea.com/ca/en/">Ikea</a>: home furnishings
+* <a class="u-url" href="https://hey.com">HEY</a>: a love letter to newsletters
 * <a class="u-url" href="https://ranchero.com/netnewswire/">NetNewsWire</a>: RSS feed reader
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
+* <a class="u-url" href="https://overcast.fm">Overcast</a>: podcast player
+* <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
 ### 💰 Referral Links - Paid Endorsements
@@ -140,8 +146,6 @@ description:
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
 ### 🎩 Flair
-
-<a href="https://stackoverflow.com/users/142252/boost-ventilator"><img src="https://stackoverflow.com/users/flair/142252.png?theme=clean" width="208" height="58" alt="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Boost Ventilator at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
