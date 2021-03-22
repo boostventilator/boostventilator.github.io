@@ -142,6 +142,7 @@ description:
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
 * <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
 * <a class="u-url" href="https://wealthsimple.com/invite/NOSZSQ">Wealthsimple</a>:  get rich slow
+* <a class="u-url" href="https://my.wealthsimple.com/app/tax-onboarding?referralCode=3a1eb7c1fb7f6a024f80e2ae1b47a2f1af7d2b84">Wealthsimple Tax</a>: simplest way to file your taxes
 * <a class="u-url" href="https://my.wealthsimple.com/app/public/trade-referral-signup?code=LK50WW">Wealthsimple Trade/Crypto</a>: Canada's first $0 commission trading app
 * <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
