@@ -8,9 +8,9 @@ description:
 
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
-  
+  <br><br>  
   I live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://www.canada.ca">Canada</a>.
-  
+  <br><br>
   You can find me on other websites below:
 </div>
 
@@ -20,6 +20,7 @@ description:
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
+* <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
 <!-- Editor at the Atlantic Standard Times -->
 
@@ -147,10 +148,6 @@ description:
 * <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
-
-### 🎩 Flair
-
-* <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
 ### ⚰️ Inactive
 
