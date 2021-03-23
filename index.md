@@ -77,8 +77,7 @@ description:
 
 ## 📹 Video
 
-* <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a>
-* <a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">YouTube (Alt)</a>
+* <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a> (<a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">Also</a>)
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
