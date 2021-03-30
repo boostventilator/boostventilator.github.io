@@ -32,6 +32,7 @@ description:
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
 * <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
+* <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
 * <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
@@ -169,5 +170,11 @@ description:
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
 * <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-44518710">Copywriter and Marketing Consultant at Iain MacLeod Creative Services</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1461892/">Producer (Hollyoaks/Emmerdale/Coronation Street)</a>
+
+### 🚽 Other Noteable Iains
+
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Armitage">Iain Armitage</a>: actor (Young Sheldon)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (Premier of Nova Scotia) 
 
 <!-- * <a class="u-url" href=""></a> -->
