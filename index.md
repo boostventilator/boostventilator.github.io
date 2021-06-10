@@ -32,6 +32,7 @@ description:
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
 * <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
+* <a class="u-url" href="https://gitlab.com/boostventilator" rel="me">Gitlab</a>
 * <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
 * <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
