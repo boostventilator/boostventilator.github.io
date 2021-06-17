@@ -90,6 +90,7 @@ description:
 * <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
+* <a class="u-url" href="https://www.allmusic.com/profile/boostventilator" rel="me">AllMusic</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
 * <a class="u-url" href="https://huffduffer.com/boostventilator" rel="me">Huffduffer</a>
 
