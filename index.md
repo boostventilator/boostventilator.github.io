@@ -11,11 +11,14 @@ description:
   <br><br>  
   I live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://www.canada.ca">Canada</a>.
   <br><br>
+  What is a boost ventilator? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
+  <br><br>
   You can find me on other websites below:
 </div>
 
 ## 👨🏻‍💻 Work
 
+* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
 * <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
@@ -24,20 +27,13 @@ description:
 
 <!-- Editor at the Atlantic Standard Times -->
 
-## 🔗 Social Media & Profiles
-
+## 🔗 Profiles
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
-* <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
-* <a class="u-url" href="https://twitter.com/boostventilator" rel="me">@boostventilator on Twitter</a>
-* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
+* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
 * <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
 * <a class="u-url" href="https://gitlab.com/boostventilator" rel="me">Gitlab</a>
 * <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
-* <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
-* <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
-* <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
-* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
 * <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
 * <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a> (<a href="https://keybase.io/boostventilator/chat">chat</a>)
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
@@ -45,7 +41,6 @@ description:
 * <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
 * <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
 * <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
-* <a class="u-url" href="https://vsco.co/boostventilator/images/1" rel="me">VSCO</a>
 * <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
 * <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
 * <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
@@ -62,7 +57,7 @@ description:
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 
 ## 📝 Writing
-
+* <a class="u-url" href="https://twitter.com/boostventilator" rel="me">@boostventilator on Twitter</a>
 * <a class="u-url" href="https://world.hey.com/imac" rel="me">HEY World</a>
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
@@ -76,13 +71,20 @@ description:
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
+* <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
+
+## 📹 Photos
+* <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
+* <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
+* <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
+* <a class="u-url" href="https://vsco.co/boostventilator/images/1" rel="me">VSCO</a>
 
 ## 📹 Video
 
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a> (<a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">Also</a>)
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
-* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
+* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
 
 ## 🔈 Audio
