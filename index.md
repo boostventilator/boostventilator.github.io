@@ -13,7 +13,7 @@ description:
   <br><br>
   What is a boost ventilator? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
   <br><br>
-  You can find me on other websites below:
+  You can find me on the following websites listed below:
 </div>
 
 ## 👨🏻‍💻 Work
@@ -115,7 +115,6 @@ description:
 
 ### 💰 Referral Links - Paid Endorsements
 
-* <a class="u-url" href="https://awcoupon.ca/en/referral/0W7iBK">A&W</a>: sign-up for free root beer
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
 * <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>: credit card
