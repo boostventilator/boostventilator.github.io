@@ -19,7 +19,7 @@ description:
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
-* <a class="u-url" href="https://novascotia.ca/abor/">Information Systems Specialist at Government of Nova Scotia</a>
+* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at Government of Nova Scotia</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
@@ -178,6 +178,6 @@ description:
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Armitage">Iain Armitage</a>: actor (Young Sheldon)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
-* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (Premier of Nova Scotia) 
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia) 
 
 <!-- * <a class="u-url" href=""></a> -->
