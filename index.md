@@ -13,7 +13,7 @@ description:
   <br><br>
   What is a boost ventilator? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
   <br><br>
-  You can find me on the following websites listed below:
+  You can sometimes find me on the following websites listed below:
 </div>
 
 ## 👨🏻‍💻 Work
