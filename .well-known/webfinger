@@ -1,0 +1,23 @@
+{
+  "subject": "acct:boostventilator@xoxo.zone",
+  "aliases": [
+    "https://xoxo.zone/@boostventilator",
+    "https://xoxo.zone/users/boostventilator"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://xoxo.zone/@boostventilator"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://xoxo.zone/users/boostventilator"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://xoxo.zone/authorize_interaction?uri={uri}"
+    }
+  ]
+}
