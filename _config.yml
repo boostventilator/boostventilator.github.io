@@ -26,4 +26,4 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: ""
+  repository_url: "https://github.com/boostventilator/boostventilator.github.io"
