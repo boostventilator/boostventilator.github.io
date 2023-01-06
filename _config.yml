@@ -1,13 +1,29 @@
 url: "https://iain.ca"
 timezone: "America/Halifax"
-remote_theme: "pages-themes/primer@v0.2.0"
+remote_theme: pages-themes/jekyll-theme-primer
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-title: "Iain K. MacLeod"
-description: "He/Him | Born to be mild. Great-great-great grandnephew of Angus “Giant” MacAskill. Worked skateboard check at 1994 Gobblefest."
+title: Iain K. MacLeod
+description: He/Him | Born to be mild. Great-great-great grandnephew of Angus “Giant” MacAskill. Worked skateboard check at 1994 Gobblefest.
 include: [".well-known"]
 show_downloads: false
-google_analytics: "UA-418434-7"
+google_analytics: UA-418434-7
+
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+github:
+  private: false
+  license:
+    name:
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: ""
