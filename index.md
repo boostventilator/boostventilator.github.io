@@ -28,50 +28,47 @@ description:
 <!-- Editor at the Atlantic Standard Times -->
 
 ## 🔗 Profiles
+
+* <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
-* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
-* <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
+* <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gitlab.com/boostventilator" rel="me">Gitlab</a>
-* <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
+* <a class="u-url" href="https://www.goodreads.com/boostventilator" rel="me">Goodreads</a>
 * <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
+* <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
+* <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
 * <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a> (<a href="https://keybase.io/boostventilator/chat">chat</a>)
-* <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
-* <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
-* <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
+* <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
+* <a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">Letterboxd</a>
+* <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
 * <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
-* <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
-* <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
 * <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
-* <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
-* <a class="u-url" href="https://www.goodreads.com/boostventilator" rel="me">Goodreads</a>
-* <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
-* <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
-* <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
-* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
-* <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
-* <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
+* <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
+* <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 * <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
-* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
+* <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
+* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
+* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
 
 ## 📝 Writing
-* <a class="u-url" href="https://twitter.com/boostventilator" rel="me">@boostventilator on Twitter</a>
-* <a class="u-url" href="https://world.hey.com/imac" rel="me">HEY World</a>
-* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
-* <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
-* <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
 * <a class="u-url" href="https://www.blogger.com/profile/01594348677326306924" rel="me">Blogger</a>
 * <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
-* <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
-* <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
-* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
-* <a class="u-url" href="https://exclaim.ca/writers/iain_k_macleod" rel="me">Exclaim</a>
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
-* <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
+* <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
+* <a class="u-url" href="https://exclaim.ca/writers/iain_k_macleod" rel="me">Exclaim</a>
+* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
+* <a class="u-url" href="https://world.hey.com/imac" rel="me">HEY World</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
-* <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
+* <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon (@boostventilator@xoxo.zone)</a>
+* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
+* <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
+* <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
+* <a class="u-url" href="https://twitter.com/boostventilator" rel="me">Twitter (@boostventilator)</a>
+* <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
+* <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
 
 ## 📹 Photos
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
@@ -81,20 +78,18 @@ description:
 
 ## 📹 Video
 
+* <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a> (<a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">Also</a>)
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
-* <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
-* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
-* <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
 
 ## 🔈 Audio
 
-* <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
-* <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
-* <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 * <a class="u-url" href="https://www.allmusic.com/profile/boostventilator" rel="me">AllMusic</a>
+* <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
 * <a class="u-url" href="https://bandcamp.com/boostventilator" rel="me">Bandcamp</a>
 * <a class="u-url" href="https://huffduffer.com/boostventilator" rel="me">Huffduffer</a>
+* <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
+* <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 
 ### 🖤 Unpaid Endorsements
 
@@ -154,18 +149,25 @@ description:
 
 ### ⚰️ Inactive
 
+* <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
+* <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
+* <a class="u-url" href="http://blingee.com/profile/boostventilator" rel="me">Blingee</a>
+* <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
 * <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
 * <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
 * <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
+* <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
+* <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
 * <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
+* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
+* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
+* <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
 * <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
+* <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
 * <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
-* <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
-* <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
-* <a class="u-url" href="http://blingee.com/profile/boostventilator" rel="me">Blingee</a>
 
 ### 🤷🏻‍♂️ It wasn’t me!
 
