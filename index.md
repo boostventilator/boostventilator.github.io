@@ -9,11 +9,13 @@ description:
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
   <br><br>  
-  I live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a>.
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a>.
+  <br><br>
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write and do technical support on the side.
   <br><br>
   What is a <a href="https://boostventilator.com">boost ventilator</a>? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
   <br><br>
-  You can sometimes find me on the following websites listed below:
+  You can sometimes find out more about me on the following websites listed below:
 </div>
 
 ## 👨🏻‍💻 Work
@@ -173,6 +175,8 @@ description:
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Ian_MacLeod_(Canadian_football)">Canadian football player who played for the Edmonton Eskimos.</a>
+* <a class="u-url" href="https://www.linkedin.com/in/ipmacleod/">Senior energy trader at Evolugen by Brookfield Renewable in Ottawa.</a>
 * <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-44518710">Copywriter and Marketing Consultant at Iain MacLeod Creative Services</a>
 * <a class="u-url" href="https://www.themacleodpost.com">Writer and filmmaker: Iain Finlay Macleod</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1461892/">Producer (Hollyoaks/Emmerdale/Coronation Street)</a>
@@ -181,6 +185,10 @@ description:
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Armitage">Iain Armitage</a>: actor (Young Sheldon)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
-* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia) 
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_De_Caestecker">Iain De Caestecker</a>: actor (Agents of S.H.I.E.L.D.)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Duncan_Smith">Iain Duncan Smith</a>: politician (Britain)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island) 
 
 <!-- * <a class="u-url" href=""></a> -->
