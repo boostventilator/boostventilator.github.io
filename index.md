@@ -107,6 +107,7 @@ description:
 * <a class="u-url" href="https://ranchero.com/netnewswire/">NetNewsWire</a>: RSS feed reader
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
 * <a class="u-url" href="https://overcast.fm">Overcast</a>: podcast player
+* <a class="u-url" href="[https://play.date/">Playdate</a>: handheld gaming system
 * <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
