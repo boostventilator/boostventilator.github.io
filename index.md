@@ -187,6 +187,7 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_De_Caestecker">Iain De Caestecker</a>: actor (Agents of S.H.I.E.L.D.)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_B._MacDonald">Iain B. MacDonald</a>: director (Poker Face, Shameless)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Duncan_Smith">Iain Duncan Smith</a>: politician (Britain)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island) 
