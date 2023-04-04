@@ -195,4 +195,4 @@ description:
 
 <!-- * <a class="u-url" href=""></a> -->
 
-{% avatar [boostventilator] %}
+{% avatar boostventilator %}
