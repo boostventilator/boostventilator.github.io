@@ -4,6 +4,7 @@ remote_theme: pages-themes/jekyll-theme-primer
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
+  - jekyll-avatar
   - jekyll-seo-tag
   - jekyll-sitemap
 title: Iain K. MacLeod
