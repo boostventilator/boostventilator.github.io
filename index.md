@@ -194,5 +194,3 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island) 
 
 <!-- * <a class="u-url" href=""></a> -->
-
-{% avatar boostventilator %}
