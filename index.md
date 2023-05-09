@@ -129,7 +129,7 @@ description:
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
 * <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>: domain registration
 * <a class="u-url" href="https://inst.cr/t/x5Em9EZuB">Instacart</a>: grocery delivery
-* <a class="u-url" href="[1](https://i.refs.cc/Lbi0eIbL?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo4MDA5Nzg2MDZ9)">Layers</a>: Halifax's best cupcakes
+* <a class="u-url" href="https://i.refs.cc/Lbi0eIbL?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo4MDA5Nzg2MDZ9">Layers</a>: Halifax's best cupcakes
 * <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
 * <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
 * <a class="u-url" href="https://www.notion.so/?r=5b8b23e57eb54cb5a508e76286074c2c">Notion</a>: all-in-one workplace
