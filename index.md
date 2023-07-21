@@ -68,6 +68,7 @@ description:
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
 * <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
+* <a class="u-url" href="https://www.threads.net/@boostventilator" rel="me">Threads (@boostventilator)</a>
 * <a class="u-url" href="https://twitter.com/boostventilator" rel="me">Twitter (@boostventilator)</a>
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
