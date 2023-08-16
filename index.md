@@ -7,15 +7,15 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I am a human on the Internet. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm a human on the Internet. 
   <br><br>  
   I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a>.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write and do technical support on the side.
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and do some technical support on the side.
   <br><br>
   What is a <a href="https://boostventilator.com">boost ventilator</a>? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
   <br><br>
-  You can sometimes find out more about me on the following websites listed below:
+  You might find out more about me on the following websites:
 </div>
 
 ## 👨🏻‍💻 Work
@@ -122,6 +122,7 @@ description:
 * <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>: cloud project and team management
 * <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
 * <a class="u-url" href="https://borrowell.com/free-credit-score?utm_source=refer2020-917985">Borrowell</a>: free Equifax Credit Score & Report
+* <a class="u-url" href="https://cottonbureau.com?discount=9Q929MJ8TB">Cotton Bureau</a>: taking pain out of selling merchandise for designers and communities of all kinds.
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
 * <a class="u-url" href="https://drd.sh/9TGZRL/">DoorDash</a>: your favourite restaurants, delivered
 * <a class="u-url" href="https://fieldagent.page.link/ukK4YcKjcUXkBQyS6">Field Agents</a>: making cash trying new products
