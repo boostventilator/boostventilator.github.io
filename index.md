@@ -61,11 +61,9 @@ description:
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
 * <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
 * <a class="u-url" href="https://exclaim.ca/writers/iain_k_macleod" rel="me">Exclaim</a>
-* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
 * <a class="u-url" href="https://world.hey.com/imac" rel="me">HEY World</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
 * <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon (@boostventilator@xoxo.zone)</a>
-* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
 * <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
 * <a class="u-url" href="https://www.threads.net/@boostventilator" rel="me">Threads (@boostventilator)</a>
@@ -163,7 +161,9 @@ description:
 * <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
 * <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
 * <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
+* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
+* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
