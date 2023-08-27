@@ -11,19 +11,20 @@ description:
   <br><br>  
   I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a>.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and do some technical support on the side.
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and do occational technical support on the side.
   <br><br>
-  What is a <a href="https://boostventilator.com">boost ventilator</a>? It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a>.
-  <br><br>
-  You might find out more about me on the following websites:
+  You can find out more about me on the following websites:
 </div>
+## ❓ FAQ
+
+* <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong> <em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
 
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
-* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at Government of Nova Scotia</a>
+* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at the Government of Nova Scotia</a>
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
-* <a class="u-url" href="https://twitter.com/thedingler">Editor at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
+* <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
@@ -56,6 +57,7 @@ description:
 * <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
 
 ## 📝 Writing
+
 * <a class="u-url" href="https://www.blogger.com/profile/01594348677326306924" rel="me">Blogger</a>
 * <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
@@ -72,6 +74,7 @@ description:
 * <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
 
 ## 📹 Photos
+
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
@@ -125,7 +128,7 @@ description:
 * <a class="u-url" href="https://drd.sh/9TGZRL/">DoorDash</a>: your favourite restaurants, delivered
 * <a class="u-url" href="https://fieldagent.page.link/ukK4YcKjcUXkBQyS6">Field Agents</a>: making cash trying new products
 * <a class="u-url" href="https://www.groupon.com/visitor_referral/h/27638cca-b3ba-4fe4-b810-6056fea888c0">Groupon</a>: coupons and deals
-* <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google G Suite</a>: Email, collaboration & productivity apps for business
+* <a class="u-url" href="https://refergsuite.app.goo.gl/mQk9">Google Workspace</a>: Email, collaboration & productivity apps for business
 * <a class="u-url" href="https://joinhoney.com/ref/126iibo">Honey</a>: shopping deals
 * <a class="u-url" href="https://hover.com/1dETf1XG">Hover</a>: domain registration
 * <a class="u-url" href="https://inst.cr/t/x5Em9EZuB">Instacart</a>: grocery delivery
