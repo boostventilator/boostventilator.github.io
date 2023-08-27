@@ -9,15 +9,12 @@ description:
 <div class="h-card">
   Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm a human on the Internet. 
   <br><br>  
-  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a>.
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family.
   <br><br>
   I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and do occational technical support on the side.
   <br><br>
   You can find out more about me on the following websites:
 </div>
-## ❓ FAQ
-
-* <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong> <em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
 
 ## 👨🏻‍💻 Work
 
@@ -95,7 +92,7 @@ description:
 * <a class="u-url" href="https://soundcloud.com/boostventilator" rel="me">Soundcloud</a>
 * <a class="u-url" href="https://open.spotify.com/user/boostventilator" rel="me">Spotify</a>
 
-### 🖤 Unpaid Endorsements
+## 🖤 Unpaid Endorsements
 
 * <a class="u-url" href="https://1password.com/">1Password</a>: password manager
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
@@ -113,7 +110,7 @@ description:
 * <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
-### 💰 Referral Links - Paid Endorsements
+## 💰 Referral Links - Paid Endorsements
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
@@ -153,7 +150,7 @@ description:
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
-### ⚰️ Inactive
+## ⚰️ Inactive
 
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
@@ -177,7 +174,7 @@ description:
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
 
-### 🤷🏻‍♂️ It wasn’t me!
+## 🤷🏻‍♂️ It wasn’t me!
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
@@ -187,7 +184,7 @@ description:
 * <a class="u-url" href="https://www.themacleodpost.com">Writer and filmmaker: Iain Finlay Macleod</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1461892/">Producer (Hollyoaks/Emmerdale/Coronation Street)</a>
 
-### 🚽 Other Noteable Iains
+## 🚽 Other Noteable Iains
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Armitage">Iain Armitage</a>: actor (Young Sheldon)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
@@ -196,6 +193,17 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_B._MacDonald">Iain B. MacDonald</a>: director (Poker Face, Shameless)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Duncan_Smith">Iain Duncan Smith</a>: politician (Britain)
-* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island) 
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island)
+  
+## 👯 Doppelgängers
+
+* <a class="u-url" href="https://www.themoviedb.org/person/3398-kim-bodnia">Kim Bodnia</a> (Killing Eve)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Taylor_Hicks">Taylor Hicks</a> (American Idol)
+* <a class="u-url" href="https://www.themoviedb.org/person/23629-brian-o-halloran">Brian O'Halloran</a> (Clerks)
+
+## ❓ FAQ
+
+* <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
+
 
 <!-- * <a class="u-url" href=""></a> -->
