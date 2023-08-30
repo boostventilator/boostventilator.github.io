@@ -114,11 +114,9 @@ description:
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
-* <a class="u-url" href="http://amex.ca/share/iainmLKdP?XLINK=MYCP">American Express</a>: credit card
 * <a class="u-url" href="https://secure.backblaze.com/r/004ua9">Backblaze</a>: cloud backup
 * <a class="u-url" href="http://baronfig.refr.cc/iainmacleod">Baron Fig</a>: pens, notebooks, and stationary
 * <a class="u-url" href="https://3.basecamp.com/r/BPOV">Basecamp</a>: cloud project and team management
-* <a class="u-url" href="https://www.talkable.com/x/B5KAhD">Boosted</a>: fun, fast, simple electric transport
 * <a class="u-url" href="https://borrowell.com/free-credit-score?utm_source=refer2020-917985">Borrowell</a>: free Equifax Credit Score & Report
 * <a class="u-url" href="https://cottonbureau.com?discount=9Q929MJ8TB">Cotton Bureau</a>: taking pain out of selling merchandise for designers and communities of all kinds.
 * <a class="u-url" href="https://m.do.co/c/2db0e8584fcf">Digital Ocean</a>: cloud hosting
@@ -131,16 +129,13 @@ description:
 * <a class="u-url" href="https://inst.cr/t/x5Em9EZuB">Instacart</a>: grocery delivery
 * <a class="u-url" href="https://i.refs.cc/Lbi0eIbL?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjo4MDA5Nzg2MDZ9">Layers</a>: Halifax's best cupcakes
 * <a class="u-url" href="https://lime.bike/referral/RDKXDBK">Lime</a>: electric scooters
-* <a class="u-url" href="https://www.lyft.com/idi/IAIN74">Lyft</a>: ride sharing
 * <a class="u-url" href="https://www.notion.so/?r=5b8b23e57eb54cb5a508e76286074c2c">Notion</a>: all-in-one workplace
 * <a class="u-url" href="http://bit.ly/2PLcQTC">Prizeo</a>: give small, win big
 * <a class="u-url" href="http://i.refs.cc/o8q7lQb3">Recycled Firefighter</a>: wallets, bags, and packs
 * <a class="u-url" href="https://www.rakuten.ca/referrer?referrerid=9hWjcml9%2B3Q%3D">Rakuten</a>: cash back
-* <a class="u-url" href="https://www.talkable.com/x/yCo5Bk">Ridge Wallet</a>: wallets
 * <a class="u-url" href="https://invite.ritual.co/IAIN58156">Ritual</a>: take-out ordering app
 * <a class="u-url" href="https://mbsy.co/3jHpJ9">Simplii Financial</a>: all the perks, none of the fees
 * <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>: electronic payments
-* <a class="u-url" href="http://ssqt.co/mEck1aW">Tile</a>: bluetooth trackers
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
 * <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
 * <a class="u-url" href="https://wealthsimple.com/invite/NOSZSQ">Wealthsimple</a>:  get rich slow
