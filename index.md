@@ -7,11 +7,11 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm a human on the Internet. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm another one of those humans on the Internet. 
   <br><br>  
-  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family.
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and do occational technical support on the side.
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and help people with technical support on the side.
   <br><br>
   You can find out more about me on the following websites:
 </div>
@@ -98,8 +98,8 @@ description:
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
 * <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
+* <a class="u-url" href="https://flexibits.com/fantastical">Fantastical</a>: a better way to track events, tasks, meetings
 * <a class="u-url" href="https://fieldnotesbrand.com/">Fieldnotes</a>: quarterly notebooks
-* <a class="u-url" href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>: web browser
 * <a class="u-url" href="https://pages.github.com/">Github Pages</a>: web pages
 * <a class="u-url" href="https://www.ikea.com/ca/en/">Ikea</a>: home furnishings
 * <a class="u-url" href="https://hey.com">HEY</a>: a love letter to newsletters
@@ -107,7 +107,7 @@ description:
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
 * <a class="u-url" href="https://overcast.fm">Overcast</a>: podcast player
 * <a class="u-url" href="[https://play.date/">Playdate</a>: handheld gaming system
-* <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: browser
+* <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: web browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
 ## 💰 Referral Links - Paid Endorsements
