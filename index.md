@@ -196,6 +196,22 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Taylor_Hicks">Taylor Hicks</a> (American Idol)
 * <a class="u-url" href="https://www.themoviedb.org/person/23629-brian-o-halloran">Brian O'Halloran</a> (Clerks)
 
+<!--
+
+## 🚫 Disinterests
+
+* <a class="u-url" href="">Alcohol</a> (mostly tastes gross plus social decay parts)
+* <a class="u-url" href="">Celebrity/Fame</a> (the problem with everything?)
+* <a class="u-url" href="">Fashion</a> (unless it involves sensible shoes and pockets)
+* <a class="u-url" href="">Guns/Weapons</a> (Canadian)
+* <a class="u-url" href="">Jewelery</a> (bling free)
+* <a class="u-url" href="">Religion</a> (organized)
+* <a class="u-url" href="">Sports</a> (organized and as a spectator)
+* <a class="u-url" href="">Steampunk</a> (just don't get it)
+* <a class="u-url" href="">Tattoos</a> (on me, knock yourself out!)
+
+-->
+
 ## ❓ FAQ
 
 * <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
