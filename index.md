@@ -48,6 +48,7 @@ description:
 * <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
 * <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 * <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
+* <a class="u-url" href="https://public.tableau.com/app/profile/iain.macleod/vizzes" rel="me">Tableau</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
 * <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
