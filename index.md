@@ -13,6 +13,8 @@ description:
   <br><br>
   I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and help people with technical support on the side.
   <br><br>
+  🚽 Fun Fact! Iain is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is it's Anglicization; both spellings correspond to the English name John.
+  <br><br>
   You can find out more about me on the following websites:
 </div>
 
