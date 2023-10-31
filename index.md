@@ -7,13 +7,13 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm just another CIS male human on the Internet. 
-  <br><br>  
-  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island.
-  <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and help people with technical and emotional support.
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm just another CIS human male on the Internet. 
   <br><br>
   🚽 Fun Fact! Iain is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is it's Anglicization; both spellings correspond to the English name John.
+  <br><br>  
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island but not sure how much that counts.
+  <br><br>
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I have worked breifly in retail and with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and end up helping people with technical problems even though I would consider it emotional support.
   <br><br>
   You can find out more about me on the following websites:
 </div>
@@ -31,7 +31,7 @@ description:
 
 ## 🔗 Profiles
 
-* <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
+* <a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me">Discogs</a>
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
 * <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
@@ -40,21 +40,19 @@ description:
 * <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
 * <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
 * <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
+* <a class="u-url" href="https://boostventilator.itch.io/" rel="me">Itch.io</a>
 * <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a> (<a href="https://keybase.io/boostventilator/chat">chat</a>)
 * <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
 * <a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">Letterboxd</a>
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
 * <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
-* <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
 * <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
 * <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 * <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
 * <a class="u-url" href="https://public.tableau.com/app/profile/boostventilator" rel="me">Tableau</a>
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
-* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
-* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
 
 ## 📝 Writing
 
@@ -62,13 +60,16 @@ description:
 * <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
 * <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
+* <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
 * <a class="u-url" href="https://exclaim.ca/writers/iain_k_macleod" rel="me">Exclaim</a>
 * <a class="u-url" href="https://world.hey.com/imac" rel="me">HEY World</a>
 * <a class="u-url" href="https://knowyourmeme.com/users/iain-k-macleod" rel="me">Know Your Meme</a>
 * <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon (@boostventilator@xoxo.zone)</a>
 * <a class="u-url" href="https://medium.com/@boostventilator" rel="me">Medium</a>
 * <a class="u-url" href="https://www.metafilter.com/user/7843" rel="me">MetaFilter</a>
+* <a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
 * <a class="u-url" href="https://www.threads.net/@boostventilator" rel="me">Threads (@boostventilator)</a>
+* <a class="u-url" href="https://boostventilator.tumblr.com/" rel="me">Tumblr</a>
 * <a class="u-url" href="https://twitter.com/boostventilator" rel="me">Twitter (@boostventilator)</a>
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
@@ -160,17 +161,31 @@ description:
 * <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
 * <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
 * <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
+* <a class="u-url" href="https://ifttt.com/p/boostventilator" rel="me">IFTTT</a>
+* <a class="u-url" href="https://letsloop.com/boostventilator" rel="me">Let's Loop</a>
 * <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
 * <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
 * <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
 * <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
 * <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
+* <a class="u-url" href="https://slashdot.org/~Boost+Ventilator" rel="me">Slashdot</a>
 * <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
 * <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
 * <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
 * <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
 * <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
 * <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
+* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
+
+<!--
+
+## 🪦 Graveyard
+
+* Friendster
+* Halifax Locals
+* Plastic
+
+-->
 
 ## 🤷🏻‍♂️ It wasn’t me!
 
@@ -218,6 +233,5 @@ description:
 ## ❓ FAQ
 
 * <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
-
 
 <!-- * <a class="u-url" href=""></a> -->
