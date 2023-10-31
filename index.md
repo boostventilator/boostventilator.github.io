@@ -7,11 +7,11 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm another one of those humans on the Internet. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm just another CIS male human on the Internet. 
   <br><br>  
   I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also try to write for fun and help people with technical support on the side.
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. and worked with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and help people with technical and emotional support.
   <br><br>
   🚽 Fun Fact! Iain is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is it's Anglicization; both spellings correspond to the English name John.
   <br><br>
@@ -20,8 +20,8 @@ description:
 
 ## 👨🏻‍💻 Work
 
-* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>
-* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at the Government of Nova Scotia</a>
+* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: resume and work history
+* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at the Government of Nova Scotia</a>: current job
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
