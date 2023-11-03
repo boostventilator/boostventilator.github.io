@@ -103,7 +103,7 @@ description:
 * <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
 * <a class="u-url" href="https://flexibits.com/fantastical">Fantastical</a>: a better way to track events, tasks, meetings
-* <a class="u-url" href="https://fieldnotesbrand.com/">Fieldnotes</a>: quarterly notebooks
+* <a class="u-url" href="https://fieldnotesbrand.com/">Field Notes</a>: quarterly notebooks
 * <a class="u-url" href="https://pages.github.com/">Github Pages</a>: web pages
 * <a class="u-url" href="https://www.ikea.com/ca/en/">Ikea</a>: home furnishings
 * <a class="u-url" href="https://hey.com">HEY</a>: a love letter to newsletters
