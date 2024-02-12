@@ -7,15 +7,15 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm just another CIS human male on the Internet. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and while I'm just another CIS human male on the Internet, I want to make this a better place/experience. 
   <br><br>
   🚽 Fun Fact! <em>Iain is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is it's Anglicization; both spellings correspond to the English name John.</em>
   <br><br>  
   I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island but not sure how much that counts.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I have worked breifly in retail and with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also write for fun and end up helping people with technical problems even though I would consider it emotional support.
+  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I have worked breifly in retail (grocery and drug store) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also still write for fun and enjoy helping people with technical problems because I consider it essentitial emotional support.
   <br><br>
-  You can find out more about me on the following websites:
+  If you want to explore my world closer or have any reason to interact, you can find out more about me on the following websites:
 </div>
 
 ## 👨🏻‍💻 Work
