@@ -110,7 +110,7 @@ description:
 * <a class="u-url" href="https://ranchero.com/netnewswire/">NetNewsWire</a>: RSS feed reader
 * <a class="u-url" href="https://www.nintendo.com/en_CA/">Nintendo</a>: video games
 * <a class="u-url" href="https://overcast.fm">Overcast</a>: podcast player
-* <a class="u-url" href="[https://play.date/">Playdate</a>: handheld gaming system
+* <a class="u-url" href="https://play.date/">Playdate</a>: handheld gaming system
 * <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: web browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
@@ -216,7 +216,25 @@ description:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Taylor_Hicks">Taylor Hicks</a> (American Idol)
 * <a class="u-url" href="https://www.themoviedb.org/person/23629-brian-o-halloran">Brian O'Halloran</a> (Clerks)
 
+## 📝 Blogroll
+
+* <a class="u-url" href="https://actsofvolition.com/">Acts of Volition</a>
+* <a class="u-url" href="https://anderegg.ca/">Anderegg</a>
+* <a class="u-url" href="https://www.andrewburke.me/blogposts">Andrew Burke</a>
+* <a class="u-url" href="https://a.wholelottanothing.org/">A Whole Lotta Nothing</a>
+* <a class="u-url" href="https://cabel.com/">Cabel</a>
+* <a class="u-url" href="https://daringfireball.net/">Daring Fireball</a>
+* <a class="u-url" href="https://furbo.org/">Furbo</a>
+* <a class="u-url" href="https://furbo.org/">Hypercritical</a>
+* <a class="u-url" href="https://kottke.org/">Kottke</a>
+* <a class="u-url" href="https://onefoottsunami.com/">One Foot Tsunami</a>
+* <a class="u-url" href="https://ruk.ca/">Ruk</a>
+* <a class="u-url" href="http://scripting.com/">Scripting News</a>
+* <a class="u-url" href="https://waxy.org/">Waxy</a>
+
 <!--
+
+## Friends
 
 ## 🚫 Disinterests
 
