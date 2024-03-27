@@ -58,6 +58,7 @@ description:
 
 * <a class="u-url" href="https://www.blogger.com/profile/01594348677326306924" rel="me">Blogger</a>
 * <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
+* <a class="u-url" href="https://bsky.app/profile/iain.ca" rel="me">Bluesky</a>
 * <a class="u-url" href="https://capebreton.lokol.me/member/boostventilator" rel="me">Cape Breton Online</a>
 * <a class="u-url" href="https://www.thecoast.ca/halifax/boost-ventilator/Profile?oid=1069291" rel="me">The Coast</a>
 * <a class="u-url" href="https://disqus.com/by/boostventilator/" rel="me">Disqus</a>
