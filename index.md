@@ -7,15 +7,15 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and while I'm just another CIS human male on the Internet, I want to make this a better place/experience. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and while I'm a CIS human male on the Internet, I want to make this a better place/experience. 
   <br><br>
-  🚽 Fun Fact! <em>Iain is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is it's Anglicization; both spellings correspond to the English name John.</em>
+  🚽 Fun Fact! <em>Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
   <br><br>  
-  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island but not sure how much that counts.
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island while I sent to school for a year.
   <br><br>
-  I went to school at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I have worked breifly in retail (grocery and drug store) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I also still write for fun and enjoy helping people with technical problems because I consider it essentitial emotional support.
+  Over the years, I attendend classes at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked breifly in retail (grocery and drug store) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I tend to write for fun and enjoy helping people with technical problems because I consider it essentitial emotional support. 
   <br><br>
-  If you want to explore my world closer or have any reason to interact, you can find out more about me on the following websites:
+  If you want to discover a reason to interact, you can find out more about me on the following websites:
 </div>
 
 ## 👨🏻‍💻 Work
@@ -80,7 +80,6 @@ description:
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
-* <a class="u-url" href="https://vsco.co/boostventilator/images/1" rel="me">VSCO</a>
 
 ## 📹 Video
 
@@ -144,51 +143,13 @@ description:
 * <a class="u-url" href="https://mbsy.co/3jHpJ9">Simplii Financial</a>: all the perks, none of the fees
 * <a class="u-url" href="https://squareup.com/i/VENTILATOR">Square</a>: electronic payments
 * <a class="u-url" href="https://www.uber.com/invite/e2fu2">Uber</a>: ride sharing
-* <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>:  use code `eats-e2fu2`
-* <a class="u-url" href="https://wealthsimple.com/invite/NOSZSQ">Wealthsimple</a>:  get rich slow
+* <a class="u-url" href="http://ubr.to/EatsGiveGet">Uber Eats</a>: use code `eats-e2fu2`
+* <a class="u-url" href="https://wealthsimple.com/invite/NOSZSQ">Wealthsimple</a>: get rich slow
 * <a class="u-url" href="https://my.wealthsimple.com/app/tax-onboarding?referralCode=3a1eb7c1fb7f6a024f80e2ae1b47a2f1af7d2b84">Wealthsimple Tax</a>: simplest way to file your taxes
 * <a class="u-url" href="https://my.wealthsimple.com/app/public/trade-referral-signup?code=LK50WW">Wealthsimple Trade/Crypto</a>: Canada's first $0 commission trading app
 * <a class="u-url" href="https://woocommerce.com/?aff=4866&cid=3511701">Woocommerce</a>: eCommerce platform for WordPress
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
-
-## ⚰️ Inactive
-
-* <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
-* <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
-* <a class="u-url" href="http://blingee.com/profile/boostventilator" rel="me">Blingee</a>
-* <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
-* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
-* <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
-* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
-* <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
-* <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
-* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
-* <a class="u-url" href="https://ifttt.com/p/boostventilator" rel="me">IFTTT</a>
-* <a class="u-url" href="https://letsloop.com/boostventilator" rel="me">Let's Loop</a>
-* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
-* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
-* <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
-* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
-* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
-* <a class="u-url" href="https://slashdot.org/~Boost+Ventilator" rel="me">Slashdot</a>
-* <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
-* <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
-* <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
-* <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
-* <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
-* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
-* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
-
-<!--
-
-## 🪦 Graveyard
-
-* Friendster
-* Halifax Locals
-* Plastic
-
--->
 
 ## 🤷🏻‍♂️ It wasn’t me!
 
@@ -233,7 +194,43 @@ description:
 * <a class="u-url" href="http://scripting.com/">Scripting News</a>
 * <a class="u-url" href="https://waxy.org/">Waxy</a>
 
+## ⚰️ Inactive
+
+* <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
+* <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
+* <a class="u-url" href="http://blingee.com/profile/boostventilator" rel="me">Blingee</a>
+* <a class="u-url" href="https://codepen.io/boostventilator" rel="me">Codepen</a>
+* <a class="u-url" href="https://dribbble.com/boostventilator" rel="me">Dribbble</a>
+* <a class="u-url" href="https://ello.co/boostventilator" rel="me">Ello</a>
+* <a class="u-url" href="https://www.flickr.com/people/boostventilator/" rel="me">Flickr</a>
+* <a class="u-url" href="http://www.forumwarz.com/profiles/boost%20ventilator" rel="me">Forum Wars</a>
+* <a class="u-url" href="https://foursquare.com/boostventilator" rel="me">Foursquare</a>
+* <a class="u-url" href="https://www.halifaxtoday.ca/profile/86469" rel="me">Halifax Today</a>
+* <a class="u-url" href="https://ifttt.com/p/boostventilator" rel="me">IFTTT</a>
+* <a class="u-url" href="https://letsloop.com/boostventilator" rel="me">Let's Loop</a>
+* <a class="u-url" href="https://www.livejournal.com/userinfo.bml?user=boostventilator" rel="me">LiveJournal</a>
+* <a class="u-url" href="https://boostventilator.micro.blog" rel="me">Micro Blog</a>
+* <a class="u-url" href="http://consulting.boostventilator.modxcloud.com/" rel="me">MODx Cloud</a>
+* <a class="u-url" href="https://www.pscp.tv/boostventilator" rel="me">Periscope</a>
+* <a class="u-url" href="https://getpocket.com/@boostventilator" rel="me">Pocket</a>
+* <a class="u-url" href="https://slashdot.org/~Boost+Ventilator" rel="me">Slashdot</a>
+* <a class="u-url" href="https://www.ted.com/profiles/56144" rel="me">TED</a>
+* <a class="u-url" href="https://www.thisismyjam.com/boostventilator" rel="me">This Is My Jam</a>
+* <a class="u-url" href="https://www.threadless.com/@boostventilator/activity" rel="me">Threadless</a>
+* <a class="u-url" href="https://upcoming.org/@boostventilator" rel="me">Upcoming</a>
+* <a class="u-url" href="https://vsco.co/boostventilator/images/1" rel="me">VSCO</a>
+* <a class="u-url" href="https://vine.co/boostventilator" rel="me">Vine</a>
+* <a class="u-url" href="https://boostventilator.yelp.ca/" rel="me">Yelp</a>
+* <a class="u-url" href="https://wt.social/u/iain-macleod" rel="me">WT.Social</a>
+
 <!--
+
+## 🪦 Graveyard
+
+* Friendster
+* Halifax Locals
+* Plastic
+
 
 ## Friends
 
