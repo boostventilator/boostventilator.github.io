@@ -7,15 +7,15 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and while I'm a CIS human male on the Internet, I want to make this a better place/experience. 
+  Hi, my name is <span class="p-name">Iain K. MacLeod</span> and I'm yet another heterosexual CIS white male on the Internet. Statistically, a threat to you and a potential victim of heart disease, cancer, or maybe both. 
   <br><br>
   🚽 Fun Fact! <em>Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
   <br><br>  
-  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island while I sent to school for a year.
+  I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I also lived briefly in Charlottetown, Prince Edward Island.
   <br><br>
-  Over the years, I attendend classes at Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked breifly in retail (grocery and drug store) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I tend to write for fun and enjoy helping people with technical problems because I consider it essentitial emotional support. 
+  Over the years, I attendend Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked breifly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it to be an essentitial way to provide emotional support. 
   <br><br>
-  If you want to discover a reason to interact, you can find out more about me on the following websites:
+  For the most part, you can find out more about me on the following websites:
 </div>
 
 ## 👨🏻‍💻 Work
@@ -248,7 +248,7 @@ description:
 
 -->
 
-<i class="fa fa-camera-retro"></i> fa-camera-retro
+<i class="fa fa-meh-o" aria-hidden="true"></i>
 
 ## ❓ FAQ
 
