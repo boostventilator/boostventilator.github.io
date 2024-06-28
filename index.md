@@ -155,6 +155,7 @@ For the most part, you can find out more about me on the following websites:
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod_(lawyer)">"Sir" and British lawyer</a>
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Ian_MacLeod_(Canadian_football)">Canadian football player who played for the Edmonton Eskimos.</a>
 * <a class="u-url" href="https://www.linkedin.com/in/ipmacleod/">Senior energy trader at Evolugen by Brookfield Renewable in Ottawa.</a>
 * <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-44518710">Copywriter and Marketing Consultant at Iain MacLeod Creative Services</a>
@@ -164,11 +165,20 @@ For the most part, you can find out more about me on the following websites:
 ## 🚽 Other Noteable Iains
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Armitage">Iain Armitage</a>: actor (Young Sheldon)
+* Iain Ballamy: British jazz saxophonist and composer
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_De_Caestecker">Iain De Caestecker</a>: actor (Agents of S.H.I.E.L.D.)
+* Iain Cook: Scottish musician, composer, and member of the band CHVRCHES
+* Iain Dowie: Northern Irish football manager and former professional footballer
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones)
+* Iain Lee: British broadcaster, writer, and comedian
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_B._MacDonald">Iain B. MacDonald</a>: director (Poker Face, Shameless)
+* Iain Matthews: English musician, known for his work with Fairport Convention and Matthews Southern Comfort
+* Iain Morrison: Scottish poet and musician
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Rankin_(politician)">Iain Rankin</a>: politician (former Premier of Nova Scotia)
+* Iain Sinclair: British writer and filmmaker known for his works on psychogeography
+* Iain Stewart: Scottish geologist and television presenter, known for his BBC science programs
+* Iain Sutherland: Scottish artist known for his work in painting and illustration
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Duncan_Smith">Iain Duncan Smith</a>: politician (Britain)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island)
   
