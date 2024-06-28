@@ -168,7 +168,7 @@ For the most part, you can find out more about me on the following websites:
 * Iain Ballamy: British jazz saxophonist and composer
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Banks">Iain Banks</a>: author (Culture Series)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_De_Caestecker">Iain De Caestecker</a>: actor (Agents of S.H.I.E.L.D.)
-* Iain Cook: Scottish musician, composer, and member of the band CHVRCHES
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Cook">Iain Cook</a>: Scottish musician, composer, and member of the band CHVRCHES
 * Iain Dowie: Northern Irish football manager and former professional footballer
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones)
 * Iain Lee: British broadcaster, writer, and comedian
