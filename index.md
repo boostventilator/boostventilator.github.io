@@ -7,7 +7,7 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm yet another heterosexual CIS white male on the Internet. Statistically, I'm a potential threat to you and a likely victim of heart disease, cancer, or both.
+Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm yet another heterosexual CIS white male on the Internet.
 <br><br>
 🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.
 <br><br>  
