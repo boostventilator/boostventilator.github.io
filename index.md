@@ -9,7 +9,7 @@ description:
 <div class="h-card">
 Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm yet another heterosexual CIS white male on the Internet.
 <br><br>
-🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.
+<em>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
 <br><br>  
 I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I've also spent some time living in Charlottetown, Prince Edward Island.
 <br><br>  
