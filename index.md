@@ -7,13 +7,13 @@ description:
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
 <div class="h-card">
-Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm yet another heterosexual CIS white male on the Internet.
+Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm a heterosexual CIS white male on the Internet.
 <br><br>
 <em>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
 <br><br>  
 I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I've also spent some time living in Charlottetown, Prince Edward Island.
 <br><br>  
-Over the years, I've attended Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
+Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
@@ -21,7 +21,6 @@ For the most part, you can find out more about me on the following websites:
 ## 👨🏻‍💻 Work
 
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: resume and work history
-* <a class="u-url" href="https://beta.novascotia.ca/government/lnu-affairs">Information Systems Specialist at the Government of Nova Scotia</a>: current job
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
 * <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
@@ -204,7 +203,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="http://scripting.com/">Scripting News</a>
 * <a class="u-url" href="https://waxy.org/">Waxy</a>
 
-## ⚰️ Inactive
+## ⚰️ Inactive (Old Links)
 
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
@@ -235,12 +234,13 @@ For the most part, you can find out more about me on the following websites:
 
 <!--
 
+## Politics
+
 ## 🪦 Graveyard
 
 * Friendster
 * Halifax Locals
 * Plastic
-
 
 ## Friends
 
