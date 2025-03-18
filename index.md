@@ -97,9 +97,7 @@ For the most part, you can find out more about me on the following websites:
 
 ## 🖤 Unpaid Endorsements
 
-* <a class="u-url" href="https://1password.com/">1Password</a>: password manager
 * <a class="u-url" href="https://apple.ca">Apple</a>: computers, phones, watches, etc.
-* <a class="u-url" href="https://getdrafts.com">Drafts</a>: where text starts
 * <a class="u-url" href="https://duckduckgo.com/spread">DuckDuckGo</a>: search without the tracking
 * <a class="u-url" href="https://flexibits.com/fantastical">Fantastical</a>: a better way to track events, tasks, meetings
 * <a class="u-url" href="https://fieldnotesbrand.com/">Field Notes</a>: quarterly notebooks
@@ -150,7 +148,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
-## 🤷🏻‍♂️ It wasn’t me!
+## 🤷🏻‍♂️ "It wasn’t me!" aka Not to be Confused With
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
@@ -169,7 +167,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_De_Caestecker">Iain De Caestecker</a>: actor (Agents of S.H.I.E.L.D.)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Cook">Iain Cook</a>: Scottish musician, composer, and member of the band CHVRCHES
 * Iain Dowie: Northern Irish football manager and former professional footballer
-* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones)
+* <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Glen">Iain Glen</a>: actor (Game of Thrones, Silo)
 * Iain Lee: British broadcaster, writer, and comedian
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_B._MacDonald">Iain B. MacDonald</a>: director (Poker Face, Shameless)
 * Iain Matthews: English musician, known for his work with Fairport Convention and Matthews Southern Comfort
