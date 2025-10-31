@@ -6,6 +6,8 @@ description:
 
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="h-card">
 Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm just another Internet user that started on CompuServe and misses Google Reader.
 <br><br>
@@ -17,6 +19,8 @@ Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Adm
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="boostventilator" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/boostventilator?trk=profile-badge">Iain K. MacLeod</a></div>
 
 ## 👨🏻‍💻 Work
 
