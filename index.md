@@ -18,9 +18,9 @@ Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Adm
 For the most part, you can find out more about me on the following websites:
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="boostventilator" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/boostventilator?trk=profile-badge">Iain K. MacLeod</a></div>
-
 ## 👨🏻‍💻 Work
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="boostventilator" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/boostventilator?trk=profile-badge">Iain K. MacLeod</a></div>
 
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: resume and work history
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
