@@ -6,6 +6,12 @@ description:
 
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
+<div id="badges">
+<a href="https://ca.linkedin.com/in/boostventilator">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+</div>
+
 <div class="h-card">
 Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm just another Internet user that started on CompuServe and misses Google Reader.
 <br><br>
@@ -20,20 +26,16 @@ For the most part, you can find out more about me on the following websites:
 
 ## 👨🏻‍💻 Work
 
-<div id="badges">
-<a href="https://ca.linkedin.com/in/boostventilator">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
-
-* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: resume and work history
+* <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: professional resume and work history
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a>
-* <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
+href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">IMdb</a>
 * <a class="u-url" href="https://www.gravatar.com/be15a3f079ae5644227810dac7e1b202.vcf">vCard</a>
 
-<!-- Editor at the Atlantic Standard Times -->
-
+<!-- Editor at the Atlantic Standard Times 
+* <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url"
+-->
+  
 ## 🔗 Profiles
 
 * <a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me">Discogs</a>
