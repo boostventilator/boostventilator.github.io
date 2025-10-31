@@ -6,8 +6,6 @@ description:
 
 ![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div class="h-card">
 Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm just another Internet user that started on CompuServe and misses Google Reader.
 <br><br>
