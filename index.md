@@ -33,7 +33,7 @@ description:
 </a> 
 
 <a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">
-<img src="https://img.shields.io/badge/mastodon-boostventilator-0366d6?style=for-the-badge&logo=mastodon&logoColor=eee" alt="Mastodon Badge"/>
+<img src="https://img.shields.io/mastodon/follow/29638?domain=xoxo.zone&style=for-the-badge&logo=mastodon&logoColor=eee" alt="Mastodon Badge"/>
 </a> 
 
 <a class="u-url" href="https://bsky.app/profile/iain.ca" rel="me">
