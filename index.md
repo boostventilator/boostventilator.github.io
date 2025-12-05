@@ -10,6 +10,14 @@ description:
 <a href="https://ca.linkedin.com/in/boostventilator">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
+<a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">
+<img src="https://img.shields.io/badge/Letterboxd-blue?style=for-the-badge&logo=etterboxd&logoColor=white" alt="Letterboxd Badge"/>
+</a>
+
+<a href="https://ca.linkedin.com/in/boostventilator">
+</a>
+
 </div>
 
 <div class="h-card">
