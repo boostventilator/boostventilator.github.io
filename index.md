@@ -16,41 +16,30 @@ description:
 </a>
 
 <a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">
-<img src="https://img.shields.io/badge/Instagram-boostventilator-0366d6?style=for-the-badge-squarel&logo=instagram&logoColor=eee" alt="Instagram Badge"/>
+<img src="https://img.shields.io/badge/Instagram-boostventilator-0366d6?style=for-the-badge&logo=instagram&logoColor=eee" alt="Instagram Badge"/>
 </a>
 
-<a class="u-url" href="https://facebook.com/boostventilator" rel="me"><img src="https://img.shields.io/badge/Facebook-boostventilator-0366d6?style=for-the-badge-squarel&logo=facebook&logoColor=eee" alt="Facebook Badge"/></a>
+<a class="u-url" href="https://facebook.com/boostventilator" rel="me"><img src="https://img.shields.io/badge/Facebook-boostventilator-0366d6?style=for-the-badge&logo=facebook&logoColor=eee" alt="Facebook Badge"/></a>
 
-<a class="u-url" href="https://world.hey.com/imac" rel="me">blog</a>
-<a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
-<a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me">Mastodon</a>
-<a class="u-url" href="https://bsky.app/profile/iain.ca" rel="me">Bluesky</a>
-<a class="u-url" href="https://www.threads.net/@boostventilator" rel="me">Threads</a>
-<a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me">Reddit</a>
-<a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a>
-<a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a>
-<a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
-<a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me">Discogs</a>
+<a class="u-url" href="https://world.hey.com/imac" rel="me"><img src="https://img.shields.io/badge/blog-imac-0366d6?style=for-the-badge&logo=hey&logoColor=eee" alt="Blog Badge"/></a>
 
-<a class="u-url" href="https://world.hey.com/imac" rel="me"><img src="https://img.shields.io/badge/blog-imac-0366d6?style=for-the-badge-squarel&logo=hey&logoColor=eee" alt="Blog Badge"/></a>
+<a class="u-url" href="https://boostventilator.wordpress.com/" rel="me"><img src="https://img.shields.io/badge/wordpress-boostventilator-0366d6?style=for-the-badge&logo=wordpress&logoColor=eee" alt="Wordpress Badge"/></a> 
 
-<a class="u-url" href="https://boostventilator.wordpress.com/" rel="me"><img src="https://img.shields.io/badge/wordpress-boostventilator-0366d6?style=for-the-badge-squarel&logo=wordpress&logoColor=eee" alt="Wordpress Badge"/></a> 
+<a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me"><img src="https://img.shields.io/badge/mastodon-boostventilator-0366d6?style=for-the-badge&logo=mastodon&logoColor=eee" alt="Mastodon Badge"/></a> 
 
-<a class="u-url" href="https://xoxo.zone/@boostventilator" rel="me"><img src="https://img.shields.io/badge/mastodon-boostventilator-0366d6?style=for-the-badge-squarel&logo=mastodon&logoColor=eee" alt="Mastodon Badge"/></a> 
+<a class="u-url" href="https://bsky.app/profile/iain.ca" rel="me"><img src="https://img.shields.io/badge/bluesky-iain.ca-0366d6?style=for-the-badge&logo=bluesky&logoColor=eee" alt="Bluesky Badge"/></a> 
 
-<a class="u-url" href="https://bsky.app/profile/iain.ca" rel="me"><img src="https://img.shields.io/badge/bluesky-iain.ca-0366d6?style=for-the-badge-squarel&logo=bluesky&logoColor=eee" alt="Bluesky Badge"/></a> 
+<a class="u-url" href="https://www.threads.net/@boostventilator" rel="me"><img src="https://img.shields.io/badge/threads-boostventilator-0366d6?style=for-the-badge&logo=threads&logoColor=eee" alt="Threads Badge"/></a> 
 
-<a class="u-url" href="https://www.threads.net/@boostventilator" rel="me"><img src="https://img.shields.io/badge/threads-boostventilator-0366d6?style=for-the-badge-squarel&logo=threads&logoColor=eee" alt="Threads Badge"/></a> 
+<a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/reddit-boostventilator-0366d6?style=for-the-badge&logo=reddit&logoColor=eee" alt="Reddit Badge"/></a> 
 
-<a class="u-url" href="https://www.reddit.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/reddit-boostventilator-0366d6?style=for-the-badge-squarel&logo=reddit&logoColor=eee" alt="Reddit Badge"/></a> 
+<a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/youtube-boostventilator-0366d6?style=for-the-badge&logo=youtube&logoColor=eee" alt="YouTube Badge"/></a> 
 
-<a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/youtube-boostventilator-0366d6?style=for-the-badge-squarel&logo=youtube&logoColor=eee" alt="YouTube Badge"/></a> 
+<a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me"><img src="https://img.shields.io/badge/tiktok-boostventilator-0366d6?style=for-the-badge&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/></a> 
 
-<a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me"><img src="https://img.shields.io/badge/tiktok-boostventilator-0366d6?style=for-the-badge-squarel&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/></a> 
+<a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me"><img src="https://img.shields.io/badge/Apple_Music-boostventilator-0366d6?style=for-the-badge&logo=apple&logoColor=eee" alt="Apple Music Badge"/></a> 
 
-<a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me"><img src="https://img.shields.io/badge/Apple_Music-boostventilator-0366d6?style=for-the-badge-squarel&logo=apple&logoColor=eee" alt="Apple Music Badge"/></a> 
-
-<a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/discogs-boostventilator-0366d6?style=for-the-badge-squarel&logo=discogs&logoColor=eee" alt="Discogs Badge"/></a>
+<a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me"><img src="https://img.shields.io/badge/discogs-boostventilator-0366d6?style=for-the-badge&logo=discogs&logoColor=eee" alt="Discogs Badge"/></a>
 
 </div>
 
