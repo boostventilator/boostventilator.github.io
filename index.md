@@ -8,11 +8,15 @@ description:
 
 <div id="badges">
 <a href="https://ca.linkedin.com/in/boostventilator">
-<img src="https://img.shields.io/badge/LinkedIn-0366d6?style=for-the-badge&logo=linkedin&logoColor=eee" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-boostventilator-0366d6?style=for-the-badge&logo=linkedin&logoColor=eee" alt="LinkedIn Badge"/>
 </a>
 
 <a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">
-<img src="https://img.shields.io/badge/Letterboxd-0366d6?style=for-the-badge&logo=letterboxd&logoColor=eee" alt="Letterboxd Badge"/>
+<img src="https://img.shields.io/badge/Letterboxd-boostventilator-0366d6?style=plastic&logo=letterboxd&logoColor=eee" alt="Letterboxd Badge"/>
+</a>
+
+<a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">
+<img src="https://img.shields.io/badge/Instagram-boostventilator-0366d6?style=social&logo=instagram&logoColor=eee" alt="Instagram Badge"/>
 </a>
 
 <a href="https://ca.linkedin.com/in/boostventilator">
