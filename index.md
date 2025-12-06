@@ -67,16 +67,20 @@ description:
 </div>
 
 <div class="h-card">
-Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm just another Internet user that started on CompuServe and misses Google Reader.
+Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm one of those Internet users that started on CompuServe and misses Google Reader.
 <br><br>
 <em>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
 <br><br>  
 I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I've also spent some time living in Charlottetown, Prince Edward Island.
 <br><br>  
-Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
+I’ve spent three decades mixing technology, culture, and community — building websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little more human.
+<br><br>  
+ Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
+
+<div id="recent-posts">Loading posts…</div>
 
 ## 👨🏻‍💻 Work
 
@@ -325,3 +329,37 @@ For the most part, you can find out more about me on the following websites:
 * <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
 
 <!-- * <a class="u-url" href=""></a> -->
+
+<script>
+async function loadHeyFeed() {
+  const container = document.getElementById('recent-posts');
+
+  try {
+    const response = await fetch('https://world.hey.com/imac/feed.atom');
+    const data = await response.text();
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(data, "application/xml");
+
+    const entries = Array.from(xml.getElementsByTagName('entry')).slice(0, 5);
+
+    container.innerHTML = `
+      <h2>Recent writing</h2>
+      <ul>
+        ${entries.map(entry => {
+          const title = entry.getElementsByTagName('title')[0]?.textContent ?? "Untitled";
+          const link = entry.getElementsByTagName('link')[0]?.getAttribute('href');
+          const date = entry.getElementsByTagName('updated')[0]?.textContent?.slice(0,10);
+
+          return `<li><a href="${link}">${title}</a> <small>(${date})</small></li>`;
+        }).join('')}
+      </ul>
+    `;
+  } catch (e) {
+    console.error(e);
+    container.innerHTML = "Could not load posts.";
+  }
+}
+
+loadHeyFeed();
+</script>
