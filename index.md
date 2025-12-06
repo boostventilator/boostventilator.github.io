@@ -331,35 +331,19 @@ For the most part, you can find out more about me on the following websites:
 <!-- * <a class="u-url" href=""></a> -->
 
 <script>
-async function loadHeyFeed() {
-  const container = document.getElementById('recent-posts');
-
-  try {
-    const response = await fetch('https://world.hey.com/imac/feed.atom');
-    const data = await response.text();
-
-    const parser = new DOMParser();
-    const xml = parser.parseFromString(data, "application/xml");
-
-    const entries = Array.from(xml.getElementsByTagName('entry')).slice(0, 5);
-
-    container.innerHTML = `
-      <h2>Recent writing</h2>
-      <ul>
-        ${entries.map(entry => {
-          const title = entry.getElementsByTagName('title')[0]?.textContent ?? "Untitled";
-          const link = entry.getElementsByTagName('link')[0]?.getAttribute('href');
-          const date = entry.getElementsByTagName('updated')[0]?.textContent?.slice(0,10);
-
-          return `<li><a href="${link}">${title}</a> <small>(${date})</small></li>`;
-        }).join('')}
-      </ul>
-    `;
-  } catch (e) {
-    console.error(e);
-    container.innerHTML = "Could not load posts.";
-  }
-}
-
-loadHeyFeed();
+fetch("https://api.rss2json.com/v1/api.json?rss_url=https://world.hey.com/imac/feed.atom")
+  .then(response => response.json())
+  .then(data => {
+    const container = document.getElementById("blog-feed");
+    container.innerHTML = data.items
+      .slice(0, 5)
+      .map(item => `
+        <div>
+          <a href="${item.link}">${item.title}</a>
+          <p>${new Date(item.pubDate).toLocaleDateString()}</p>
+        </div>
+      `)
+      .join("");
+  });
 </script>
+
