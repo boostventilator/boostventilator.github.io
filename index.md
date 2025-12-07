@@ -67,23 +67,23 @@ description:
 </div>
 
 <div class="h-card">
-Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm one of those Internet users that started on CompuServe and misses Google Reader.
+Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm an Internet users that started out using a modem to dial into CompuServe and deeply miss Google Reader (Isn't Facebook just propriatary RSS? Why didn't Flickr become Instagram?).
 <br><br>
 <em>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</em>
 <br><br>  
-I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my family. I've also spent some time living in Charlottetown, Prince Edward Island.
+I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my blended family. I spent my elementary years in Halifax, junior high in Dartmouth, and then high school in Sydney. I've also spent some time going to university in Charlottetown, Prince Edward Island but don't really have a strong connection to the place. I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. 
 <br><br>  
-I’ve spent three decades mixing technology, culture, and community — building websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little more human.
+I’ve spent three decades mixing technology, culture, and community by building and dissecting websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little better.
 <br><br>  
- Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
+I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
-Some recent posts:
+Here are some recent posts:
 <div id="feed"></div>
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
 
-## 👨🏻‍💻 Work
+## 👨🏻‍💻 This is where I WORK. Hire me?
 
 * <a class="u-url" href="https://ca.linkedin.com/in/boostventilator" rel="me">LinkedIn</a>: professional resume and work history
 * <a class="u-url" href="https://boostventilator.com">Sole Proprietor at Boost Ventilator Consulting</a> - <a class="u-url" href="https://facebook.com/boostventilatorconsulting">Facebook</a> 
@@ -94,7 +94,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://twitter.com/thedingler">Admin at The Dingler</a> - <a class="u-url" href="https://www.facebook.com/thedingler/">Facebook</a> - <a class="u-url" href="https://www.instagram.com/thedingler/">Instagram</a>
 -->
   
-## 🔗 Profiles
+## 🔗 These are some online PROFILES
 
 * <a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me">Discogs</a>
 * <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
@@ -119,7 +119,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="http://tilde.club/~boostventilator/" rel="me">Tilde.club</a>
 * <a class="u-url" href="https://www.trustpilot.com/users/5d812d2d83ffc2f16eaae276" rel="me">Trustpilot</a>
 
-## 📝 Writing
+## 📝 This is where I WRITE
 
 * <a class="u-url" href="https://www.blogger.com/profile/01594348677326306924" rel="me">Blogger</a>
 * <a class="u-url" href="https://boostventilator.blogspot.com" rel="me">Blogspot</a>
@@ -140,19 +140,19 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://www.urbandictionary.com/author.php?author=Iain+K.+MacLeod" rel="me">Urban Dictionary</a>
 * <a class="u-url" href="https://boostventilator.wordpress.com/" rel="me">WordPress</a>
 
-## 📹 Photos
+## 📹 These are some PHOTOS
 
 * <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
 
-## 📹 Video
+## 📹 These are some VIDEOS
 
 * <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">TikTok</a> (<a class="u-url" href="http://vm.tiktok.com/AKG2Td/" rel="me">Also</a>)
 * <a class="u-url" href="https://www.youtube.com/user/boostventilator" rel="me">YouTube</a> (<a class="u-url" href="https://youtube.com/c/iainkmacleod" rel="me">Also</a>)
 * <a class="u-url" href="https://vimeo.com/boostventilator" rel="me">Vimeo</a>
 
-## 🔈 Audio
+## 🔈 These are some AUDIO sounds
 
 * <a class="u-url" href="https://www.allmusic.com/profile/boostventilator" rel="me">AllMusic</a>
 * <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">Apple Music</a>
@@ -177,7 +177,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://www.apple.com/ca/safari/">Safari</a>: web browser
 * <a class="u-url" href="https://secure.splitwise.com/">Splitwise</a>: share expenses and balances with friends and family.
 
-## 💰 Referral Links - Paid Endorsements
+## 💰 Referral Links or Paid Endorsements
 
 * <a class="u-url" href="https://airtable.com/invite/r/O0UHeORA">Airtable</a>: custom cloud spreadsheet/database
 * <a class="u-url" href="https://www.amazon.ca/s?k=Amazon&amp;rh=p_85%3A5690392011&amp;dc&amp;qid=1568739612&amp;rnid=5690384011&amp;ref=sr_nr_p_85_1&_encoding=UTF8&tag=ventilator-20&linkCode=ur2&linkId=87bce22bb82ea56fcecd142bd4601051&camp=15121&creative=330641">Amazon</a>: shopping
@@ -215,7 +215,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://wordpress.com/alp/?aff=4866&cid=3511701">WordPress</a>: content management system
 * <a class="u-url" href="https://wpjobmanager.com/?aff=4866&cid=3511701">WP Job Manager</a>: job board for WordPress
 
-## 🤷🏻‍♂️ "It wasn’t me!" aka Not to be Confused With
+## 🤷🏻‍♂️ "It wasn’t me!" aka "Not to be Confused With…"
 
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Macleod">“Iain Norman Macleod (11 November 1913 – 20 July 1970) was a British Conservative Party politician and government minister.”</a>
 * <a class="u-url" href="https://www.imdb.com/name/nm6082773/">Screenwriter (Trailer Park Boys) and director (Your Money or Your Wife)</a> and <a class="u-url" href="https://ca.linkedin.com/in/iain-macleod-342066b">Film Educator, Participatory Filmmaking Teacher, Screenwriting Teacher, and Filmmaker</a>
@@ -246,13 +246,13 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Duncan_Smith">Iain Duncan Smith</a>: politician (Britain)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Iain_Stirling">Iain Stirling</a>: comedian & presenter (Love Island)
   
-## 👯 Doppelgängers
+## 👯 My Doppelgängers
 
 * <a class="u-url" href="https://www.themoviedb.org/person/3398-kim-bodnia">Kim Bodnia</a> (Killing Eve)
 * <a class="u-url" href="https://en.wikipedia.org/wiki/Taylor_Hicks">Taylor Hicks</a> (American Idol)
 * <a class="u-url" href="https://www.themoviedb.org/person/23629-brian-o-halloran">Brian O'Halloran</a> (Clerks)
 
-## 📝 Blogroll
+## 📝 An Ol' Fashioned BLOGROLL
 
 * <a class="u-url" href="https://actsofvolition.com/">Acts of Volition</a>
 * <a class="u-url" href="https://anderegg.ca/">Anderegg</a>
@@ -268,7 +268,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="http://scripting.com/">Scripting News</a>
 * <a class="u-url" href="https://waxy.org/">Waxy</a>
 
-## ⚰️ Inactive (Old Links)
+## ⚰️ Old, Inactive, or Dead Links
 
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
