@@ -61,7 +61,7 @@ description:
 </a> 
 <br>
 <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">
-<img src="https://img.shields.io/badge/tiktok-0366d6?style=for-the-badge&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/>
+<img src="https://img.shields.io/badge/tiktok-boostventilator-0366d6?style=for-the-badge&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/>
 </a> 
 
 </div>
@@ -344,7 +344,7 @@ async function loadFeed() {
     const entry = document.createElement("div");
     entry.innerHTML = `
       <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
-      <p><em>${item.pubDate}</em></p>
+      <p><small>From: <em>${item.pubDate}</em></small></p>
     `;
     container.appendChild(entry);
   });
