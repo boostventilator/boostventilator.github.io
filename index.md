@@ -3,9 +3,6 @@ layout: default
 title: Iain K. MacLeod
 description: 
 ---
-
-![Iain K. MacLeod avatar](https://www.gravatar.com/avatar/be15a3f079ae5644227810dac7e1b202.png)
-
 <div id="badges">
 
 <a class="u-url" href="https://world.hey.com/imac" rel="me">
@@ -343,7 +340,7 @@ async function loadFeed() {
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
+      <h4><a href="${item.link}" target="_blank">${item.title}</a></h4>
       <p><small>From: <em>${item.pubDate}</em></small></p>
     `;
     container.appendChild(entry);
