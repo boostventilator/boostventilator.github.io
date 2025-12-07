@@ -77,10 +77,11 @@ I’ve spent three decades mixing technology, culture, and community — buildin
 <br><br>  
  Over the years, I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
+Some recent posts:
+<div id="feed"></div>
+<br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
-
-<div id="feed"></div>
 
 ## 👨🏻‍💻 Work
 
@@ -342,8 +343,8 @@ async function loadFeed() {
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-      <p>${item.pubDate}</p>
+      <h2><a href="${item.link}" target="_blank">${item.title}</a></h2>
+      <p><em>${item.pubDate}</em></p>
     `;
     container.appendChild(entry);
   });
