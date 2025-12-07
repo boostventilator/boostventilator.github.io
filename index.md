@@ -75,7 +75,8 @@ I’ve spent three decades mixing technology, culture, and community by building
 I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
 Here are some recent posts:
-<div id="feed"></div>
+  
+<div id="feed"><ul></ul></div>
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
@@ -340,8 +341,8 @@ async function loadFeed() {
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      <h4><a href="${item.link}" target="_blank">${item.title}</a></h4>
-      <p><small>From: <em>${item.pubDate}</em></small></p>
+      <li><a href="${item.link}" target="_blank">${item.title}</a><br>
+      <small>From: <em>${item.pubDate}</em></small></li>
     `;
     container.appendChild(entry);
   });
