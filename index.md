@@ -80,7 +80,7 @@ I’ve spent three decades mixing technology, culture, and community — buildin
 For the most part, you can find out more about me on the following websites:
 </div>
 
-<div id="recent-posts">Loading posts…</div>
+<div id="feed"></div>
 
 ## 👨🏻‍💻 Work
 
@@ -331,19 +331,23 @@ For the most part, you can find out more about me on the following websites:
 <!-- * <a class="u-url" href=""></a> -->
 
 <script>
-fetch("https://api.rss2json.com/v1/api.json?rss_url=https://world.hey.com/imac/feed.atom")
-  .then(response => response.json())
-  .then(data => {
-    const container = document.getElementById("blog-feed");
-    container.innerHTML = data.items
-      .slice(0, 5)
-      .map(item => `
-        <div>
-          <a href="${item.link}">${item.title}</a>
-          <p>${new Date(item.pubDate).toLocaleDateString()}</p>
-        </div>
-      `)
-      .join("");
-  });
-</script>
+async function loadFeed() {
+  const url = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fworld.hey.com%2Fimac%2Ffeed.atom&api_key=q0volo9e6ig5yhagksrjznrkqyjfnrkniql0doea";
 
+  const response = await fetch(url);
+  const data = await response.json();
+
+  const container = document.getElementById("feed");
+
+  data.items.forEach(item => {
+    const entry = document.createElement("div");
+    entry.innerHTML = `
+      <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+      <p>${item.pubDate}</p>
+    `;
+    container.appendChild(entry);
+  });
+}
+
+loadFeed();
+</script>
