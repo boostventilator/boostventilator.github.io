@@ -76,7 +76,7 @@ I write for fun and enjoy helping people with their inevitable technical problem
 <br><br>
 Here are some recent posts:
   
-<div id="feed"><ul></ul></div>
+<div id="feed"></div>
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
@@ -342,8 +342,8 @@ async function loadFeed() {
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      <li><a href="${item.link}" target="_blank">${item.title}</a><br>
-      <small>From: <em>${item.pubDate}</em></small></li>
+      * <a href="${item.link}" target="_blank">${item.title}</a><br>
+      <small><em>(${item.pubDate})</em></small>
     `;
     container.appendChild(entry);
   });
