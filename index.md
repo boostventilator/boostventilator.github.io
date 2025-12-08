@@ -110,7 +110,7 @@ For the most part, you can find out more about me on the following websites:
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
 * <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
-* <a class="u-url" href=https://watch.plex.tv/en-GB/u/boostventilator rel="me">Plex</a>
+* <a class="u-url" href="https://watch.plex.tv/en-GB/u/boostventilator" rel="me">Plex</a>
 * <a class="u-url" href="https://stackexchange.com/users/47955/boost-ventilator" rel="me">Stackexchange</a>
 * <a class="u-url" href="https://stackoverflow.com/users/142252/boost-ventilator" rel="me">Stackoverflow</a>
 * <a class="u-url" href="https://steamcommunity.com/id/boostventilator/" rel="me">Steam</a>
