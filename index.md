@@ -329,7 +329,6 @@ For the most part, you can find out more about me on the following websites:
 * <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
 
 <!-- * <a class="u-url" href=""></a> -->
-
 const card = document.createElement("div");
 card.className = "post-card";
 card.innerHTML = `
@@ -341,23 +340,25 @@ postsContainer.appendChild(card);
 
 <script>
 async function loadFeed() {
-  const url = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fworld.hey.com%2Fimac%2Ffeed.atom&api_key=q0volo9e6ig5yhagksrjznrkqyjfnrkniql0doea";
+  const url =
+    "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fworld.hey.com%2Fimac%2Ffeed.atom&api_key=q0volo9e6ig5yhagksrjznrkqyjfnrkniql0doea";
 
   const response = await fetch(url);
   const data = await response.json();
 
-  const formattedDate = new Date(item.pubDate).toLocaleDateString("en-CA", {
-  year: "numeric",
-  month: "long",
-  day: "numeric"
-});
-
   const container = document.getElementById("feed");
 
   data.items.forEach(item => {
+    const formattedDate = new Date(item.pubDate).toLocaleDateString("en-CA", {
+      year: "numeric",
+      month: "long",
+      day: "numeric"
+    });
+
     const entry = document.createElement("div");
     entry.innerHTML = `
-      * <a href="${item.link}" target="_blank">${item.title}</a> <small><em>(${formattedDate})</em></small>
+      • <a href="${item.link}" target="_blank">${item.title}</a>
+      <small><em>(${formattedDate})</em></small>
     `;
     container.appendChild(entry);
   });
