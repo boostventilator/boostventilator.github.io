@@ -337,10 +337,6 @@ async function loadFeed() {
   const response = await fetch(url);
   const data = await response.json();
 
-  pubDate.toLocaleDateString("en-CA");
-// → "2025-12-06"
-
-
   const container = document.getElementById("feed");
 
   data.items.forEach(item => {
