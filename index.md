@@ -3,6 +3,9 @@ layout: default
 title: Iain K. MacLeod
 description: 
 ---
+## Recent Writing
+<div id="feed"></div>
+
 <div id="badges">
 
 <a class="u-url" href="https://world.hey.com/imac" rel="me">
@@ -73,9 +76,6 @@ I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a cla
 I’ve spent three decades mixing technology, culture, and community by building and dissecting websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little better.
 <br><br>  
 I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
-<br><br>
-## Recent Writing
-<div id="feed"></div>
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
@@ -333,14 +333,6 @@ For the most part, you can find out more about me on the following websites:
 * <strong>So, what is a <a href="https://boostventilator.com">boost ventilator</a> anyway?</strong><br><em>It's <a href="https://www.everything2.com/?node=Boost+Ventilator">an enclosed system of ducts and mechanical fans used for circulating fresh, recycled or conditioned air at varying degrees of temperature and variable speeds within a motor vehicle</a></em>.
 
 <!-- * <a class="u-url" href=""></a> -->
-const card = document.createElement("div");
-card.className = "post-card";
-card.innerHTML = `
-  <h3><a href="${item.link}">${item.title}</a></h3>
-  <p class="date">${formattedDate}</p>
-`;
-postsContainer.appendChild(card);
-
 
 <script>
 async function loadFeed() {
@@ -351,21 +343,25 @@ async function loadFeed() {
   const data = await response.json();
 
   const container = document.getElementById("feed");
+  container.innerHTML = ""; // clear previous content if any
 
-const date = new Date(item.pubDate);
+  data.items.forEach(item => {
+    const date = new Date(item.pubDate);
 
-const day = String(date.getDate()).padStart(2, "0");
-const month = date.toLocaleString("en-CA", { month: 'short', day: 'numeric', year: 'short' });
-const year = date.getFullYear();
+    const day = String(date.getDate()).padStart(2, "0");
+    const month = date.toLocaleString("en-CA", { month: "short" });
+    const year = date.getFullYear();
+    const formattedDate = `${day}-${month}-${year}`;
 
-const formattedDate = `${day}-${month}-${year}`;
-
-    const entry = document.createElement("div");
-    entry.innerHTML = `
-      • <a href="${item.link}" target="_blank">${item.title}</a>
-      <small><em>(${formattedDate})</em></small>
+    const card = document.createElement("div");
+    card.className = "post-card"; // you can style .post-card in CSS
+    card.innerHTML = `
+      <a href="${item.link}" target="_blank">${item.title}</a>
+      <div><small><em>${formattedDate}</em></small></div>
+      <p>${item.contentSnippet || ""}</p>
     `;
-    container.appendChild(entry);
+
+    container.appendChild(card);
   });
 }
 
