@@ -330,6 +330,15 @@ For the most part, you can find out more about me on the following websites:
 
 <!-- * <a class="u-url" href=""></a> -->
 
+const card = document.createElement("div");
+card.className = "post-card";
+card.innerHTML = `
+  <h3><a href="${item.link}">${item.title}</a></h3>
+  <p class="date">${formattedDate}</p>
+`;
+postsContainer.appendChild(card);
+
+
 <script>
 async function loadFeed() {
   const url = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fworld.hey.com%2Fimac%2Ffeed.atom&api_key=q0volo9e6ig5yhagksrjznrkqyjfnrkniql0doea";
@@ -337,12 +346,18 @@ async function loadFeed() {
   const response = await fetch(url);
   const data = await response.json();
 
+  const formattedDate = new Date(item.pubDate).toLocaleDateString("en-CA", {
+  year: "numeric",
+  month: "long",
+  day: "numeric"
+});
+
   const container = document.getElementById("feed");
 
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      * <a href="${item.link}" target="_blank">${item.title}</a> <small><em>(${item.pubDate})</em></small>
+      * <a href="${item.link}" target="_blank">${item.title}</a> <small><em>(${formattedDate})</em></small>
     `;
     container.appendChild(entry);
   });
