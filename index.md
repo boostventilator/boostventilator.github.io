@@ -352,12 +352,13 @@ async function loadFeed() {
 
   const container = document.getElementById("feed");
 
-  data.items.forEach(item => {
-    const formattedDate = new Date(item.pubDate).toLocaleDateString("en-CA", {
-      year: "numeric",
-      month: "long",
-      day: "numeric"
-    });
+const date = new Date(item.pubDate);
+
+const day = String(date.getDate()).padStart(2, "0");
+const month = date.toLocaleString("en-CA", { month: 'short', day: 'numeric', year: 'short' });
+const year = date.getFullYear();
+
+const formattedDate = `${day}-${month}-${year}`;
 
     const entry = document.createElement("div");
     entry.innerHTML = `
