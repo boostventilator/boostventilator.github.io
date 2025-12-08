@@ -356,9 +356,7 @@ async function loadFeed() {
     const card = document.createElement("div");
     card.className = "post-card"; // you can style .post-card in CSS
     card.innerHTML = `
-      <a href="${item.link}" target="_blank">${item.title}</a>
-      <div><small><em>${formattedDate}</em></small></div>
-      <p>${item.contentSnippet || ""}</p>
+      <div><small><em>${formattedDate}</em></small>: <a href="${item.link}" target="_blank">${item.title}</a></div>
     `;
 
     container.appendChild(card);
