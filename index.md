@@ -74,12 +74,16 @@ I’ve spent three decades mixing technology, culture, and community by building
 <br><br>  
 I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 <br><br>
-Here are some recent posts:
-  
+## Recent Writing
 <div id="feed"></div>
 <br><br>
 For the most part, you can find out more about me on the following websites:
 </div>
+
+<!--
+## Recent Posts
+## Recent Reviews
+-->
 
 ## 👨🏻‍💻 This is where I WORK. Hire me?
 
