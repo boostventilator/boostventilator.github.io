@@ -342,8 +342,7 @@ async function loadFeed() {
   data.items.forEach(item => {
     const entry = document.createElement("div");
     entry.innerHTML = `
-      * <a href="${item.link}" target="_blank">${item.title}</a><br>
-      <small><em>(${item.pubDate})</em></small>
+      * <a href="${item.link}" target="_blank">${item.title}</a> <small><em>(${item.pubDate})</em></small>
     `;
     container.appendChild(entry);
   });
