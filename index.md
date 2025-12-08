@@ -3,9 +3,6 @@ layout: default
 title: Iain K. MacLeod
 description: 
 ---
-## Recent Writing
-<div id="feed"></div>
-
 <div id="badges">
 
 <a class="u-url" href="https://world.hey.com/imac" rel="me">
@@ -76,9 +73,10 @@ I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a cla
 I’ve spent three decades mixing technology, culture, and community by building and dissecting websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little better.
 <br><br>  
 I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
-<br><br>
-For the most part, you can find out more about me on the following websites:
 </div>
+
+## Recent Writing
+<div id="feed"></div>
 
 <!--
 ## Recent Posts
