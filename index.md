@@ -60,7 +60,10 @@ description:
 <a class="u-url" href="https://www.tiktok.com/@boostventilator" rel="me">
 <img src="https://img.shields.io/badge/tiktok-boostventilator-0366d6?style=for-the-badge&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/>
 </a> 
-
+<br>
+<a class="u-url" href="https://www.coursera.org/user/3d5953fe9f0c29661f9dbebe7276ec93" rel="me">
+<img src="https://img.shields.io/badge/coursera-0366d6?style=for-the-badge&logo=coursera&logoColor=eee" alt="Coursera Badge"/>
+</a> 
 </div>
 
 <div class="h-card">
