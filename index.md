@@ -17,6 +17,10 @@ description:
 <img src="https://img.shields.io/badge/Letterboxd-boostventilator-0366d6?style=for-the-badge&logo=letterboxd&logoColor=eee" alt="Letterboxd Badge"/>
 </a>
 <br>
+<a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">
+<img src="https://img.shields.io/badge/Gravatar-boostventilator-0366d6?style=for-the-badge&logo=Gravatar&logoColor=eee" alt="Gravatar Badge"/>
+</a>
+<br>
 <a class="u-url" href="https://music.apple.com/profile/boostventilator" rel="me">
 <img src="https://img.shields.io/badge/Apple_Music-boostventilator-0366d6?style=for-the-badge&logo=apple&logoColor=eee" alt="Apple Music Badge"/>
 </a> 
@@ -61,6 +65,10 @@ description:
 <img src="https://img.shields.io/badge/tiktok-boostventilator-0366d6?style=for-the-badge&logo=tiktok&logoColor=eee" alt="Tiktok Badge"/>
 </a> 
 <br>
+<a class="u-url" href="https://www.imdb.com/name/nm1828496/" rel="me">
+<img src="https://img.shields.io/badge/IMdb-0366d6?style=for-the-badge&logo=imdb&logoColor=eee" alt="IMdb Badge"/>
+</a> 
+<br>
 <a class="u-url" href="https://www.coursera.org/user/3d5953fe9f0c29661f9dbebe7276ec93" rel="me">
 <img src="https://img.shields.io/badge/coursera-0366d6?style=for-the-badge&logo=coursera&logoColor=eee" alt="Coursera Badge"/>
 </a> 
@@ -99,19 +107,14 @@ I write for fun and enjoy helping people with their inevitable technical problem
   
 ## 🔗 These are some online PROFILES
 
-* <a class="u-url" href="https://www.discogs.com/user/boostventilator" rel="me">Discogs</a>
-* <a class="u-url" href="https://facebook.com/boostventilator" rel="me">Facebook</a>
 * <a class="u-url" href="https://gist.github.com/boostventilator" rel="me">Gist</a>
-* <a class="u-url" href="https://github.com/boostventilator" rel="me">Github</a>
 * <a class="u-url" href="https://gitlab.com/boostventilator" rel="me">Gitlab</a>
 * <a class="u-url" href="https://www.goodreads.com/boostventilator" rel="me">Goodreads</a>
-* <a class="u-url" href="https://en.gravatar.com/boostventilator" rel="me">Gravatar</a>
 * <a class="u-url" href="https://halifax.bibliocommons.com/user_profile/1579146289/" rel="me">Halifax Regional Library</a>
 * <a class="u-url" href="https://www.indiegogo.com/individuals/516376" rel="me">Indiegogo</a>
 * <a class="u-url" href="https://boostventilator.itch.io/" rel="me">Itch.io</a>
 * <a class="u-url" href="https://keybase.io/boostventilator" rel="me">Keybase</a> (<a href="https://keybase.io/boostventilator/chat">chat</a>)
 * <a class="u-url" href="https://www.kickstarter.com/profile/boostventilator" rel="me">Kickstarter</a>
-* <a class="u-url" href="https://letterboxd.com/boostventilator/" rel="me">Letterboxd</a>
 * <a class="u-url" href="https://boostventilator.netlify.com" rel="me">Netlify</a>
 * <a class="u-url" href="https://www.patreon.com/boostventilator/creators" rel="me">Patreon</a>
 * <a class="u-url" href="http://pinboard.in/u:boostventilator" rel="me">Pinboard</a>
@@ -146,7 +149,6 @@ I write for fun and enjoy helping people with their inevitable technical problem
 
 ## 📹 These are some PHOTOS
 
-* <a class="u-url" href="https://instagram.com/boostventilator" rel="me">Instagram</a>
 * <a class="u-url" href="https://www.pinterest.ca/boostventilator/" rel="me">Pinterest</a>
 * <a class="u-url" href="https://www.snapchat.com/add/boostventilator" rel="me">Snapchat</a>
 
