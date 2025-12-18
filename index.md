@@ -273,7 +273,7 @@ I write for fun and enjoy helping people with their inevitable technical problem
 * <a class="u-url" href="http://scripting.com/">Scripting News</a>
 * <a class="u-url" href="https://waxy.org/">Waxy</a>
 
-## ⚰️ Old, Inactive, or Dead Links
+## ⚰️ Old, Inactive, Abandoned, or Dead Links
 
 * <a class="u-url" href="https://about.me/boostventilator" rel="me">About Me</a>
 * <a class="u-url" href="https://www.behance.net/iainmacleod" rel="me">Behance</a>
