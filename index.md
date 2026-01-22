@@ -3,6 +3,18 @@ layout: default
 title: Iain K. MacLeod
 description: 
 ---
+<div class="h-card">
+Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm an Internet users that started out using a modem to dial into CompuServe and deeply miss Google Reader (Isn't Facebook just propriatary RSS? Why didn't Flickr become Instagram?).
+<br><br>
+<blockquote>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</blockquote>
+I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my blended family. I spent my elementary years in Halifax, junior high in Dartmouth, and then high school in Sydney. I've also spent some time going to university in Charlottetown, Prince Edward Island but don't really have a strong connection to the place. I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. 
+<br><br>  
+I’ve spent three decades mixing technology, culture, and community by building and dissecting websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little better.
+<br><br>  
+I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
+</div>
+
+
 <div id="badges">
 
 <a class="u-url" href="https://world.hey.com/imac" rel="me">
@@ -72,17 +84,6 @@ description:
 <a class="u-url" href="https://www.coursera.org/user/3d5953fe9f0c29661f9dbebe7276ec93" rel="me">
 <img src="https://img.shields.io/badge/coursera-0366d6?style=for-the-badge&logo=coursera&logoColor=eee" alt="Coursera Badge"/>
 </a> 
-</div>
-
-<div class="h-card">
-Hi, my name is <span class="p-name">Iain K. MacLeod</span>, and I'm an Internet users that started out using a modem to dial into CompuServe and deeply miss Google Reader (Isn't Facebook just propriatary RSS? Why didn't Flickr become Instagram?).
-<br><br>
-<blockquote>🚽 Fun Fact! Iain (with two "i"s) is a name of Scottish Gaelic origin, while <a href="https://en.wikipedia.org/wiki/Ian">Ian</a> is the Anglicization; both spellings correspond to the English name John. A toilet? No relation.</blockquote>
-I was born in <a class="u-url" href="https://www.cbrm.ns.ca/">Sydney</a>, <a class="u-url" href="https://www.cbisland.com/">Cape Breton</a> and now live in <a href="https://halifax.ca">Dartmouth</a>, <a href="https://novascotia.ca">Nova Scotia</a>, <a href="https://canada.ca">Canada</a> with my blended family. I spent my elementary years in Halifax, junior high in Dartmouth, and then high school in Sydney. I've also spent some time going to university in Charlottetown, Prince Edward Island but don't really have a strong connection to the place. I've attended schools such as Chebucto Heights, Mary Lawson, Admiral Westphal, Sheriff, Sydney Academy, U.P.E.I, and U.C.C.B. I've worked briefly in retail (grocery and drug stores) as well as with Celtic Colours, Coast Publishing, the Atlantic Film Festival, Spectacle Group, and the Government of Nova Scotia. 
-<br><br>  
-I’ve spent three decades mixing technology, culture, and community by building and dissecting websites, helping people make sense of their tools, and quietly fixing the things that waste everyone’s time. I’m a dad, a recovering collector, and a lifelong fan of [REDACTED], good design, and anything that makes the web feel a little better.
-<br><br>  
-I write for fun and enjoy helping people with their inevitable technical problems because I consider it an essential way to provide emotional support.
 </div>
 
 ## Recent Writing
